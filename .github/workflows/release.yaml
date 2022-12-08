@@ -36,14 +36,18 @@ jobs:
           cd sing-geoip
           go run -v .
       
+      - name: Get current time
+        id: time
+        run: echo "::set-output name=time::$(date +'%Y%m%d%H%M%S')"
+      
       - name: Create a release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.build_site.outputs.tag }}
-          release_name: ${{ steps.build_site.outputs.tag }}
+          tag_name: ${{ steps.time.outputs.time }}
+          release_name: ${{ steps.time.outputs.time }}
           draft: false
           prerelease: false
       
