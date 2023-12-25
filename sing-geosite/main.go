@@ -10,15 +10,11 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/google/go-github/v45/github"
 	"github.com/sagernet/sing-box/common/geosite"
-	"github.com/sagernet/sing-box/common/srs"
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
 	"github.com/sagernet/sing/common"
 	E "github.com/sagernet/sing/common/exceptions"
-
-	"github.com/google/go-github/v45/github"
+	"github.com/sirupsen/logrus"
 	"github.com/v2fly/v2ray-core/v5/app/router/routercommon"
 	"google.golang.org/protobuf/proto"
 )
@@ -47,7 +43,7 @@ func fetch(from string) (*github.RepositoryRelease, error) {
 }
 
 func get(downloadURL *string) ([]byte, error) {
-	log.Info("download ", *downloadURL)
+	logrus.Info("download ", *downloadURL)
 	response, err := http.Get(*downloadURL)
 	if err != nil {
 		return nil, err
@@ -169,7 +165,12 @@ func parse(vGeositeData []byte) (map[string][]geosite.Item, error) {
 	return domainMap, nil
 }
 
-func generate(release *github.RepositoryRelease, output string, cnOutput string, ruleSetOutput string) error {
+func generate(release *github.RepositoryRelease, output string) error {
+	outputFile, err := os.Create(output)
+	if err != nil {
+		return err
+	}
+	defer outputFile.Close()
 	vData, err := download(release)
 	if err != nil {
 		return err
@@ -180,104 +181,42 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 	}
 	outputPath, _ := filepath.Abs(output)
 	os.Stderr.WriteString("write " + outputPath + "\n")
-	outputFile, err := os.Create(output)
-	if err != nil {
-		return err
-	}
-	defer outputFile.Close()
-	err = geosite.Write(outputFile, domainMap)
-	if err != nil {
-		return err
-	}
-	cnCodes := []string{
-		"cn",
-		"geolocation-!cn",
-		"category-companies@cn",
-	}
-	cnDomainMap := make(map[string][]geosite.Item)
-	for _, cnCode := range cnCodes {
-		cnDomainMap[cnCode] = domainMap[cnCode]
-	}
-	cnOutputFile, err := os.Create(cnOutput)
-	if err != nil {
-		return err
-	}
-	defer cnOutputFile.Close()
-	err = geosite.Write(cnOutputFile, cnDomainMap)
-	if err != nil {
-		return err
-	}
-	os.RemoveAll(ruleSetOutput)
-	err = os.MkdirAll(ruleSetOutput, 0o755)
-	if err != nil {
-		return err
-	}
-	for code, domains := range domainMap {
-		var headlessRule option.DefaultHeadlessRule
-		defaultRule := geosite.Compile(domains)
-		headlessRule.Domain = defaultRule.Domain
-		headlessRule.DomainSuffix = defaultRule.DomainSuffix
-		headlessRule.DomainKeyword = defaultRule.DomainKeyword
-		headlessRule.DomainRegex = defaultRule.DomainRegex
-		var plainRuleSet option.PlainRuleSet
-		plainRuleSet.Rules = []option.HeadlessRule{
-			{
-				Type:           C.RuleTypeDefault,
-				DefaultOptions: headlessRule,
-			},
-		}
-		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".srs"))
-		os.Stderr.WriteString("write " + srsPath + "\n")
-		outputRuleSet, err := os.Create(srsPath)
-		if err != nil {
-			return err
-		}
-		err = srs.Write(outputRuleSet, plainRuleSet)
-		if err != nil {
-			outputRuleSet.Close()
-			return err
-		}
-		outputRuleSet.Close()
-	}
-	return nil
+	return geosite.Write(outputFile, domainMap)
 }
 
 func setActionOutput(name string, content string) {
 	os.Stdout.WriteString("::set-output name=" + name + "::" + content + "\n")
 }
 
-func release(source string, destination string, output string, cnOutput string, ruleSetOutput string) error {
+func release(source string, destination string, output string) error {
 	sourceRelease, err := fetch(source)
 	if err != nil {
 		return err
 	}
 	destinationRelease, err := fetch(destination)
 	if err != nil {
-		log.Warn("missing destination latest release")
+		logrus.Warn("missing destination latest release")
 	} else {
 		if os.Getenv("NO_SKIP") != "true" && strings.Contains(*destinationRelease.Name, *sourceRelease.Name) {
-			log.Info("already latest")
+			logrus.Info("already latest")
 			setActionOutput("skip", "true")
 			return nil
 		}
 	}
-	err = generate(sourceRelease, output, cnOutput, ruleSetOutput)
+	err = generate(sourceRelease, output)
 	if err != nil {
 		return err
 	}
-	setActionOutput("tag", *sourceRelease.Name)
+	
+	tagName := *sourceRelease.Name
+	setActionOutput("tag", tagName[12:])
+	
 	return nil
 }
 
 func main() {
-	err := release(
-		"Loyalsoldier/v2ray-rules-dat",
-		"lyc8503/sing-box-rules",
-		"geosite.db",
-		"geosite-cn.db",
-		"rule-set",
-	)
+	err := release("Loyalsoldier/v2ray-rules-dat", "lyc8503/sing-geosite", "geosite.db")
 	if err != nil {
-		log.Fatal(err)
+		logrus.Fatal(err)
 	}
 }
