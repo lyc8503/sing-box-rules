@@ -33,12 +33,6 @@ jobs:
           cd sing-geoip
           go run -v .
       
-      - name: Release rule sets
-        if: steps.build.outputs.skip != 'true'
-        run: .github/release-rule-set.sh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Get current time
         id: time
         run: echo "::set-output name=time::$(date +'%Y%m%d%H%M%S')"
