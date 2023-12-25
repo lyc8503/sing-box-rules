@@ -6,16 +6,8 @@ import (
 	"net"
 	"net/http"
 	"os"
-	"path/filepath"
 	"sort"
 	"strings"
-
-	"github.com/sagernet/sing-box/common/srs"
-	C "github.com/sagernet/sing-box/constant"
-	"github.com/sagernet/sing-box/log"
-	"github.com/sagernet/sing-box/option"
-	"github.com/sagernet/sing/common"
-	E "github.com/sagernet/sing/common/exceptions"
 
 	"github.com/google/go-github/v45/github"
 	"github.com/maxmind/mmdbwriter"
@@ -23,6 +15,10 @@ import (
 	"github.com/maxmind/mmdbwriter/mmdbtype"
 	"github.com/oschwald/geoip2-golang"
 	"github.com/oschwald/maxminddb-golang"
+	"github.com/sagernet/sing/common"
+	E "github.com/sagernet/sing/common/exceptions"
+	"github.com/sagernet/sing/common/rw"
+	"github.com/sirupsen/logrus"
 )
 
 var githubClient *github.Client
@@ -49,7 +45,7 @@ func fetch(from string) (*github.RepositoryRelease, error) {
 }
 
 func get(downloadURL *string) ([]byte, error) {
-	log.Info("download ", *downloadURL)
+	logrus.Info("download ", *downloadURL)
 	response, err := http.Get(*downloadURL)
 	if err != nil {
 		return nil, err
@@ -163,17 +159,38 @@ func write(writer *mmdbwriter.Tree, dataMap map[string][]*net.IPNet, output stri
 	return err
 }
 
-func release(source string, destination string, output string, ruleSetOutput string) error {
+func local(input string, output string, codes []string) error {
+	binary, err := os.ReadFile(input)
+	if err != nil {
+		return err
+	}
+	metadata, countryMap, err := parse(binary)
+	if err != nil {
+		return err
+	}
+	var writer *mmdbwriter.Tree
+	if rw.FileExists(output) {
+		writer, err = open(output, codes)
+	} else {
+		writer, err = newWriter(metadata, codes)
+	}
+	if err != nil {
+		return err
+	}
+	return write(writer, countryMap, output, codes)
+}
+
+func release(source string, destination string) error {
 	sourceRelease, err := fetch(source)
 	if err != nil {
 		return err
 	}
 	destinationRelease, err := fetch(destination)
 	if err != nil {
-		log.Warn("missing destination latest release")
+		logrus.Warn("missing destination latest release")
 	} else {
 		if os.Getenv("NO_SKIP") != "true" && strings.Contains(*destinationRelease.Name, *sourceRelease.Name) {
-			log.Info("already latest")
+			logrus.Info("already latest")
 			setActionOutput("skip", "true")
 			return nil
 		}
@@ -190,16 +207,14 @@ func release(source string, destination string, output string, ruleSetOutput str
 	for code := range countryMap {
 		allCodes = append(allCodes, code)
 	}
-
 	writer, err := newWriter(metadata, allCodes)
 	if err != nil {
 		return err
 	}
-	err = write(writer, countryMap, output, nil)
+	err = write(writer, countryMap, "geoip.db", nil)
 	if err != nil {
 		return err
 	}
-
 	writer, err = newWriter(metadata, []string{"cn"})
 	if err != nil {
 		return err
@@ -208,39 +223,9 @@ func release(source string, destination string, output string, ruleSetOutput str
 	if err != nil {
 		return err
 	}
-
-	os.RemoveAll(ruleSetOutput)
-	err = os.MkdirAll(ruleSetOutput, 0o755)
 	if err != nil {
 		return err
 	}
-	for countryCode, ipNets := range countryMap {
-		var headlessRule option.DefaultHeadlessRule
-		headlessRule.IPCIDR = make([]string, 0, len(ipNets))
-		for _, cidr := range ipNets {
-			headlessRule.IPCIDR = append(headlessRule.IPCIDR, cidr.String())
-		}
-		var plainRuleSet option.PlainRuleSet
-		plainRuleSet.Rules = []option.HeadlessRule{
-			{
-				Type:           C.RuleTypeDefault,
-				DefaultOptions: headlessRule,
-			},
-		}
-		srsPath, _ := filepath.Abs(filepath.Join(ruleSetOutput, "geoip-"+countryCode+".srs"))
-		os.Stderr.WriteString("write " + srsPath + "\n")
-		outputRuleSet, err := os.Create(srsPath)
-		if err != nil {
-			return err
-		}
-		err = srs.Write(outputRuleSet, plainRuleSet)
-		if err != nil {
-			outputRuleSet.Close()
-			return err
-		}
-		outputRuleSet.Close()
-	}
-
 	setActionOutput("tag", *sourceRelease.Name)
 	return nil
 }
@@ -250,8 +235,13 @@ func setActionOutput(name string, content string) {
 }
 
 func main() {
-	err := release("Loyalsoldier/geoip", "lyc8503/sing-box-rules", "geoip.db", "rule-set")
+	var err error
+	if len(os.Args) >= 3 {
+		err = local(os.Args[1], os.Args[2], os.Args[2:])
+	} else {
+		err = release("Loyalsoldier/geoip", "lyc8503/sing-geoip")
+	}
 	if err != nil {
-		log.Fatal(err)
+		logrus.Fatal(err)
 	}
 }
