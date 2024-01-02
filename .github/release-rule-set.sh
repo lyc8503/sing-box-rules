@@ -6,8 +6,8 @@ set -e -o pipefail
 
 cd sing-geoip/rule-set
 git init
-git config --local user.email "github-action@users.noreply.github.com"
-git config --local user.name "GitHub Action"
+git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config --local user.name "github-actions[bot]"
 git remote add origin https://github-action:$GITHUB_TOKEN@github.com/lyc8503/sing-box-rules.git
 git branch -M rule-set-geoip
 git add .
@@ -19,8 +19,8 @@ cd -
 
 cd sing-geosite/rule-set
 git init
-git config --local user.email "github-action@users.noreply.github.com"
-git config --local user.name "GitHub Action"
+git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config --local user.name "github-actions[bot]"
 git remote add origin https://github-action:$GITHUB_TOKEN@github.com/lyc8503/sing-box-rules.git
 git branch -M rule-set-geosite
 git add .
