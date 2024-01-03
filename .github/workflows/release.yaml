@@ -41,7 +41,7 @@ jobs:
 
       - name: Get current time
         id: time
-        run: echo "$(date +'%Y%m%d%H%M%S')" >> $GITHUB_OUTPUT
+        run: echo "time=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_OUTPUT
       
       - name: Create a release
         id: create_release
