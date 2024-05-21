@@ -10,3 +10,12 @@ https://github.com/lyc8503/sing-box-rules/releases/latest/download/geoip.db
 https://github.com/lyc8503/sing-box-rules/releases/latest/download/geosite.db
 
 具体的配置方法请参考 upstream 相关说明.
+
+---
+
+较新版本 sing-box 使用的 srs 文件在以下分支中:
+
+https://github.com/lyc8503/sing-box-rules/tree/rule-set-geoip
+
+https://github.com/lyc8503/sing-box-rules/tree/rule-set-geosite
+
