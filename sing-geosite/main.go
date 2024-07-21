@@ -4,6 +4,7 @@ import (
 	"context"
 	"crypto/sha256"
 	"encoding/hex"
+	"encoding/json"
 	"io"
 	"net/http"
 	"os"
@@ -233,6 +234,22 @@ func generate(release *github.RepositoryRelease, output string, cnOutput string,
 			return err
 		}
 		err = srs.Write(outputRuleSet, plainRuleSet)
+		if err != nil {
+			outputRuleSet.Close()
+			return err
+		}
+		outputRuleSet.Close()
+
+		srsPath, _ = filepath.Abs(filepath.Join(ruleSetOutput, "geosite-"+code+".json"))
+		os.Stderr.WriteString("write " + srsPath + "\n")
+		outputRuleSet, err = os.Create(srsPath)
+		if err != nil {
+			return err
+		}
+		je := json.NewEncoder(outputRuleSet)
+		je.SetEscapeHTML(false)
+		je.SetIndent("", "    ")
+		err = je.Encode(plainRuleSet)
 		if err != nil {
 			outputRuleSet.Close()
 			return err
