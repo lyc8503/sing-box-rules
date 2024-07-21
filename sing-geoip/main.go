@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"encoding/json"
 	"io"
 	"net"
 	"net/http"
@@ -234,6 +235,22 @@ func release(source string, destination string, output string, ruleSetOutput str
 			return err
 		}
 		err = srs.Write(outputRuleSet, plainRuleSet)
+		if err != nil {
+			outputRuleSet.Close()
+			return err
+		}
+		outputRuleSet.Close()
+
+		srsPath, _ = filepath.Abs(filepath.Join(ruleSetOutput, "geoip-"+countryCode+".json"))
+		os.Stderr.WriteString("write " + srsPath + "\n")
+		outputRuleSet, err = os.Create(srsPath)
+		if err != nil {
+			return err
+		}
+		je := json.NewEncoder(outputRuleSet)
+		je.SetEscapeHTML(false)
+		je.SetIndent("", "    ")
+		err = je.Encode(plainRuleSet)
 		if err != nil {
 			outputRuleSet.Close()
 			return err
