@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "cloudconvert.com",
+            "domain_suffix": ".cloudconvert.com"
+        }
+    ]
+}

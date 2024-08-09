@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "scaleflex.com",
+                "cloudimage.io",
+                "cloudimg.io"
+            ],
+            "domain_suffix": [
+                ".scaleflex.com",
+                ".cloudimage.io",
+                ".cloudimg.io"
+            ]
+        }
+    ]
+}

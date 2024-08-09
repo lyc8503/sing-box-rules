@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "vim.org",
+            "domain_suffix": ".vim.org"
+        }
+    ]
+}

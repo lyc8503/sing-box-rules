@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "decide.mixpanel.com",
+            "domain_suffix": ".decide.mixpanel.com"
+        }
+    ]
+}

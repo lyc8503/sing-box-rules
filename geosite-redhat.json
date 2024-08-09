@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "redhat.com",
+                "redhat.org"
+            ],
+            "domain_suffix": [
+                ".redhat.com",
+                ".redhat.org"
+            ]
+        }
+    ]
+}

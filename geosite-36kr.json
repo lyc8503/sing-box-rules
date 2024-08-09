@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "36dianping.com",
+                "36kr.com",
+                "36krcdn.com",
+                "36krcnd.com"
+            ],
+            "domain_suffix": [
+                ".36dianping.com",
+                ".36kr.com",
+                ".36krcdn.com",
+                ".36krcnd.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "lianjia.com",
+                "ljcdn.com"
+            ],
+            "domain_suffix": [
+                ".lianjia.com",
+                ".ljcdn.com"
+            ]
+        }
+    ]
+}

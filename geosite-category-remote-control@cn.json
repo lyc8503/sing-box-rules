@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "teamviewer.cn",
+            "domain_suffix": ".teamviewer.cn"
+        }
+    ]
+}

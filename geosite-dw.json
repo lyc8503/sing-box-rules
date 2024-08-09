@@ -1,0 +1,11 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "deutschewelle.h-cdn.com",
+                "dw.com"
+            ],
+            "domain_suffix": ".dw.com"
+        }
+    ]
+}

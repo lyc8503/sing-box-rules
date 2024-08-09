@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "assets.growingio.com",
+            "domain_suffix": ".assets.growingio.com"
+        }
+    ]
+}

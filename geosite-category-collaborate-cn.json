@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "shimo.im",
+                "yuque.com"
+            ],
+            "domain_suffix": [
+                ".shimo.im",
+                ".yuque.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "x.clearbitjs.com",
+            "domain_suffix": ".x.clearbitjs.com"
+        }
+    ]
+}

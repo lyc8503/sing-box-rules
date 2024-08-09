@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "api-adservices.apple.com",
+                "iadsdk.apple.com",
+                "iad.apple.com",
+                "qwapi.com"
+            ],
+            "domain_suffix": [
+                ".api-adservices.apple.com",
+                ".iadsdk.apple.com",
+                ".iad.apple.com",
+                ".qwapi.com"
+            ]
+        }
+    ]
+}

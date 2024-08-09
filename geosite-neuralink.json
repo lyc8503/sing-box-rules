@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "neuralink.com",
+            "domain_suffix": ".neuralink.com"
+        }
+    ]
+}

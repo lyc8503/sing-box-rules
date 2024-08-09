@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "muwai.com",
+            "domain_suffix": ".muwai.com"
+        }
+    ]
+}

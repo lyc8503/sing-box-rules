@@ -1,0 +1,7 @@
+{
+    "rules": [
+        {
+            "domain": "firebase-settings.crashlytics.com"
+        }
+    ]
+}

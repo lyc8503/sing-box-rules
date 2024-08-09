@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "android.com",
+                "androidify.com"
+            ],
+            "domain_suffix": [
+                ".android.com",
+                ".androidify.com"
+            ]
+        }
+    ]
+}

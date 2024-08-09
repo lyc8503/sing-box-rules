@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "lethalhardcore.com",
+                "lethalhardcorevr.com"
+            ],
+            "domain_suffix": [
+                ".lethalhardcore.com",
+                ".lethalhardcorevr.com"
+            ]
+        }
+    ]
+}

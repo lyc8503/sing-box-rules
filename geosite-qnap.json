@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "myqnapcloud.com",
+                "qlink.to",
+                "qnap.com",
+                "myqnapcloud.cn",
+                "qlinkto.cn",
+                "qnap.com.cn"
+            ],
+            "domain_suffix": [
+                ".myqnapcloud.com",
+                ".qlink.to",
+                ".qnap.com",
+                ".myqnapcloud.cn",
+                ".qlinkto.cn",
+                ".qnap.com.cn"
+            ]
+        }
+    ]
+}

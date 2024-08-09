@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "foundertype.com",
+            "domain_suffix": ".foundertype.com"
+        }
+    ]
+}

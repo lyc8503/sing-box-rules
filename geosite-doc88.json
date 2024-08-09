@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "doc88.com",
+            "domain_suffix": ".doc88.com"
+        }
+    ]
+}

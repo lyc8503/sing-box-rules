@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ynet.cn",
+                "ynet.com",
+                "ynet.com.cn"
+            ],
+            "domain_suffix": [
+                ".ynet.cn",
+                ".ynet.com",
+                ".ynet.com.cn"
+            ]
+        }
+    ]
+}

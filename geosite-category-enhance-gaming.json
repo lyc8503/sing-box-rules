@@ -1,0 +1,36 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bluestacks.com",
+                "maa.plus",
+                "prts.plus",
+                "poi.moe",
+                "playcover.io",
+                "fflogs.com",
+                "rpglogs.com",
+                "playcover.workers.dev",
+                "lsplayer.com",
+                "yeshen.com",
+                "heavenlywind.cc",
+                "steampp.net",
+                "rpglogs.cn"
+            ],
+            "domain_suffix": [
+                ".bluestacks.com",
+                ".maa.plus",
+                ".prts.plus",
+                ".poi.moe",
+                ".playcover.io",
+                ".fflogs.com",
+                ".rpglogs.com",
+                ".playcover.workers.dev",
+                ".lsplayer.com",
+                ".yeshen.com",
+                ".heavenlywind.cc",
+                ".steampp.net",
+                ".rpglogs.cn"
+            ]
+        }
+    ]
+}

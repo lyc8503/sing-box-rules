@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "gcores.com",
+            "domain_suffix": ".gcores.com"
+        }
+    ]
+}

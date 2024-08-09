@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "apple-itunes.cn",
+                "itunes-apple.cn",
+                "itunesapple.cn",
+                "itunesradio.cn",
+                "itunesradio.com.cn"
+            ],
+            "domain_suffix": [
+                ".apple-itunes.cn",
+                ".itunes-apple.cn",
+                ".itunesapple.cn",
+                ".itunesradio.cn",
+                ".itunesradio.com.cn"
+            ]
+        }
+    ]
+}

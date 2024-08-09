@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bamgrid.com",
+                "dmed.technology"
+            ],
+            "domain_suffix": [
+                ".bamgrid.com",
+                ".dmed.technology"
+            ]
+        }
+    ]
+}

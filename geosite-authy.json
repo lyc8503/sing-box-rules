@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "authy.com",
+            "domain_suffix": ".authy.com"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "tendcloud.com",
+                "talkingdata.com",
+                "talkinggame.com",
+                "cpatrk.net"
+            ],
+            "domain_suffix": [
+                ".tendcloud.com",
+                ".talkingdata.com",
+                ".talkinggame.com",
+                ".cpatrk.net"
+            ]
+        }
+    ]
+}

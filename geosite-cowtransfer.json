@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "c-t.work",
+                "cowtransfer.com"
+            ],
+            "domain_suffix": [
+                ".c-t.work",
+                ".cowtransfer.com"
+            ]
+        }
+    ]
+}

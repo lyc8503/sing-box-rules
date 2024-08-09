@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cdn.jetbrains.com",
+                "download-cdn.jetbrains.com.cn"
+            ],
+            "domain_suffix": [
+                ".cdn.jetbrains.com",
+                ".download-cdn.jetbrains.com.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kgimg.com",
+                "kugou.com"
+            ],
+            "domain_suffix": [
+                ".kgimg.com",
+                ".kugou.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "youzan.com",
+                "yzcdn.cn",
+                "youzanyun.com"
+            ],
+            "domain_suffix": [
+                ".youzan.com",
+                ".yzcdn.cn",
+                ".youzanyun.com"
+            ]
+        }
+    ]
+}

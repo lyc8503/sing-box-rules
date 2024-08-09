@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "firefox.com",
+                "firefoxusercontent.com"
+            ],
+            "domain_suffix": [
+                ".firefox.com",
+                ".firefoxusercontent.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "baijiayun.com",
+            "domain_suffix": ".baijiayun.com"
+        }
+    ]
+}

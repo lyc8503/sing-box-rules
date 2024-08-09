@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "translatewiki.net",
+                "translatewiki.org"
+            ],
+            "domain_suffix": [
+                ".translatewiki.net",
+                ".translatewiki.org"
+            ]
+        }
+    ]
+}

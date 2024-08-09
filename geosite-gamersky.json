@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "gamersky.com",
+            "domain_suffix": ".gamersky.com"
+        }
+    ]
+}

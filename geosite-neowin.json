@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "neow.in",
+                "neowin.net"
+            ],
+            "domain_suffix": [
+                ".neow.in",
+                ".neowin.net"
+            ]
+        }
+    ]
+}

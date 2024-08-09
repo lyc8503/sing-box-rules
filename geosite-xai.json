@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "x.ai",
+            "domain_suffix": ".x.ai"
+        }
+    ]
+}

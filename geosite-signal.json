@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "signal.art",
+                "signal.org",
+                "signalusers.org",
+                "whispersystems.org"
+            ],
+            "domain_suffix": [
+                ".signal.art",
+                ".signal.org",
+                ".signalusers.org",
+                ".whispersystems.org"
+            ]
+        }
+    ]
+}

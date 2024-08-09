@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "chinaunicom.com.hk",
+                "chinaunicomglobal.com",
+                "cuniq.com"
+            ],
+            "domain_suffix": [
+                ".chinaunicom.com.hk",
+                ".chinaunicomglobal.com",
+                ".cuniq.com"
+            ]
+        }
+    ]
+}

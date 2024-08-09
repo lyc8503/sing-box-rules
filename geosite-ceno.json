@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "censorship.no",
+            "domain_suffix": ".censorship.no"
+        }
+    ]
+}

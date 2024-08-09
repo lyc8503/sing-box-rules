@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "newcoder.com",
+                "nowcoder.com",
+                "nowcoder.org"
+            ],
+            "domain_suffix": [
+                ".newcoder.com",
+                ".nowcoder.com",
+                ".nowcoder.org"
+            ]
+        }
+    ]
+}

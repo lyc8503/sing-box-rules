@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "b3log.org",
+            "domain_suffix": ".b3log.org"
+        }
+    ]
+}

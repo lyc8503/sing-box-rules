@@ -1,0 +1,38 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "51cdn.com",
+                "8686c.com",
+                "cdn30.org",
+                "chinanetcenter.com",
+                "lxdns.com",
+                "lxdns.info",
+                "lxdns.org",
+                "ourdvsss.com",
+                "speedws.info",
+                "speedws.org",
+                "wangsu.com",
+                "wscdns.com",
+                "wscdns.info",
+                "wscdns.org"
+            ],
+            "domain_suffix": [
+                ".51cdn.com",
+                ".8686c.com",
+                ".cdn30.org",
+                ".chinanetcenter.com",
+                ".lxdns.com",
+                ".lxdns.info",
+                ".lxdns.org",
+                ".ourdvsss.com",
+                ".speedws.info",
+                ".speedws.org",
+                ".wangsu.com",
+                ".wscdns.com",
+                ".wscdns.info",
+                ".wscdns.org"
+            ]
+        }
+    ]
+}

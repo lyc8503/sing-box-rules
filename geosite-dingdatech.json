@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "diiing.cn",
+                "dingdachuxing.com",
+                "dingdatech.com",
+                "jintdev.com",
+                "xiangbababus.com"
+            ],
+            "domain_suffix": [
+                ".diiing.cn",
+                ".dingdachuxing.com",
+                ".dingdatech.com",
+                ".jintdev.com",
+                ".xiangbababus.com"
+            ]
+        }
+    ]
+}

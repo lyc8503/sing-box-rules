@@ -1,0 +1,32 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "01.org",
+                "hyperscan.io",
+                "intellinuxgraphics.com",
+                "intellinuxgraphics.net",
+                "oneapi.com",
+                "openvinotoolkit.org",
+                "snap-telemetry.io",
+                "acpica.com",
+                "clearlinux.org",
+                "ospray.net",
+                "ospray.org"
+            ],
+            "domain_suffix": [
+                ".01.org",
+                ".hyperscan.io",
+                ".intellinuxgraphics.com",
+                ".intellinuxgraphics.net",
+                ".oneapi.com",
+                ".openvinotoolkit.org",
+                ".snap-telemetry.io",
+                ".acpica.com",
+                ".clearlinux.org",
+                ".ospray.net",
+                ".ospray.org"
+            ]
+        }
+    ]
+}

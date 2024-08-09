@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "arewereadyyet.com",
+                "element.io",
+                "matrix.org",
+                "matrix.to",
+                "modular.im",
+                "riot.im",
+                "vector.im"
+            ],
+            "domain_suffix": [
+                ".arewereadyyet.com",
+                ".element.io",
+                ".matrix.org",
+                ".matrix.to",
+                ".modular.im",
+                ".riot.im",
+                ".vector.im"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "lancdn.com",
+                "landiannews.com",
+                "landian.vip",
+                "landian.xyz",
+                "ourl.co",
+                "wsoso.com"
+            ],
+            "domain_suffix": [
+                ".lancdn.com",
+                ".landiannews.com",
+                ".landian.vip",
+                ".landian.xyz",
+                ".ourl.co",
+                ".wsoso.com"
+            ]
+        }
+    ]
+}

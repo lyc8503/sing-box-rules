@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "freenode.net",
+            "domain_suffix": ".freenode.net"
+        }
+    ]
+}

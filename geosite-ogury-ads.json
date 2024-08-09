@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ogury.com",
+                "presage.io",
+                "ogury.co"
+            ],
+            "domain_suffix": [
+                ".ogury.com",
+                ".presage.io",
+                ".ogury.co"
+            ]
+        }
+    ]
+}

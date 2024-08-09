@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "speiyou.com",
+                "xesimg.com",
+                "xueersi.com"
+            ],
+            "domain_suffix": [
+                ".speiyou.com",
+                ".xesimg.com",
+                ".xueersi.com"
+            ]
+        }
+    ]
+}

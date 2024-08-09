@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "mopub.com",
+            "domain_suffix": ".mopub.com"
+        }
+    ]
+}

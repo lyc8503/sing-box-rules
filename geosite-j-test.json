@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "j-test.com",
+            "domain_suffix": ".j-test.com"
+        }
+    ]
+}

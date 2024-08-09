@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "iina.io",
+            "domain_suffix": ".iina.io"
+        }
+    ]
+}

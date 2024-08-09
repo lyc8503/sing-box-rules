@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "nattest-china.com",
+            "domain_suffix": ".nattest-china.com"
+        }
+    ]
+}

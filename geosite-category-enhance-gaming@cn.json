@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "lsplayer.com",
+                "yeshen.com",
+                "heavenlywind.cc",
+                "steampp.net",
+                "rpglogs.cn"
+            ],
+            "domain_suffix": [
+                ".lsplayer.com",
+                ".yeshen.com",
+                ".heavenlywind.cc",
+                ".steampp.net",
+                ".rpglogs.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "heytea.com",
+            "domain_suffix": ".heytea.com"
+        }
+    ]
+}

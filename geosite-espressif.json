@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "espressif.com",
+                "esp32.com",
+                "esp8266.com"
+            ],
+            "domain_suffix": [
+                ".espressif.com",
+                ".esp32.com",
+                ".esp8266.com"
+            ]
+        }
+    ]
+}

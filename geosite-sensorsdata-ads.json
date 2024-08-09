@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "static.sensorsdata.cn",
+            "domain_suffix": ".static.sensorsdata.cn"
+        }
+    ]
+}

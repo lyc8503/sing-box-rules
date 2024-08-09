@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dtstatic.com",
+                "duitang.com"
+            ],
+            "domain_suffix": [
+                ".dtstatic.com",
+                ".duitang.com"
+            ]
+        }
+    ]
+}

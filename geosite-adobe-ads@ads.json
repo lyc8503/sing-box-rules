@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "advertising.adobe.com",
+                "tubemogul.com"
+            ],
+            "domain_suffix": [
+                ".advertising.adobe.com",
+                ".tubemogul.com"
+            ]
+        }
+    ]
+}

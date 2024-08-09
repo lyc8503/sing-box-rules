@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "cdn.segment.com",
+            "domain_suffix": ".cdn.segment.com"
+        }
+    ]
+}

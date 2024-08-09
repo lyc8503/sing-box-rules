@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cdn.pocoiq.cn",
+                "oct.pocoiq.cn"
+            ],
+            "domain_suffix": [
+                ".cdn.pocoiq.cn",
+                ".oct.pocoiq.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "javdb.com",
+                "jdbimgs.com",
+                "jdbstatic.com"
+            ],
+            "domain_suffix": [
+                ".javdb.com",
+                ".jdbimgs.com",
+                ".jdbstatic.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "xvideos-cdn.com",
+                "xvideos.com"
+            ],
+            "domain_suffix": [
+                ".xvideos-cdn.com",
+                ".xvideos.com"
+            ]
+        }
+    ]
+}

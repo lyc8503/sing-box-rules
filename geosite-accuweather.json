@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "accuweather.com",
+            "domain_suffix": ".accuweather.com"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "meitu.com",
+                "meitudata.com",
+                "meitustat.com"
+            ],
+            "domain_suffix": [
+                ".meitu.com",
+                ".meitudata.com",
+                ".meitustat.com"
+            ]
+        }
+    ]
+}

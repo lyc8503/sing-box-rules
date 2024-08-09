@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "themoviedb.org",
+                "tmdb.org"
+            ],
+            "domain_suffix": [
+                ".themoviedb.org",
+                ".tmdb.org"
+            ]
+        }
+    ]
+}

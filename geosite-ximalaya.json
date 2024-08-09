@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ximalaya.com",
+                "xmcdn.com"
+            ],
+            "domain_suffix": [
+                ".ximalaya.com",
+                ".xmcdn.com"
+            ]
+        }
+    ]
+}

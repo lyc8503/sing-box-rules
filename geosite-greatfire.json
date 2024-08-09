@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "applecensorship.com",
+                "freebrowser.org",
+                "freewechat.com",
+                "freeweibo.com",
+                "freezhihu.org",
+                "greatfire.org",
+                "pao-pao.net",
+                "wikiunblocked.org"
+            ],
+            "domain_suffix": [
+                ".applecensorship.com",
+                ".freebrowser.org",
+                ".freewechat.com",
+                ".freeweibo.com",
+                ".freezhihu.org",
+                ".greatfire.org",
+                ".pao-pao.net",
+                ".wikiunblocked.org"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "piwheels.org",
+            "domain_suffix": ".piwheels.org"
+        }
+    ]
+}

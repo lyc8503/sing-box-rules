@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "glyphsapp.com",
+            "domain_suffix": ".glyphsapp.com"
+        }
+    ]
+}

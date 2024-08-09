@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "banmaaike.com",
+                "xiaoyuankousuan.com",
+                "ybccode.com",
+                "yuanfudao.com",
+                "yuansouti.com",
+                "yuantiku.com"
+            ],
+            "domain_suffix": [
+                ".banmaaike.com",
+                ".xiaoyuankousuan.com",
+                ".ybccode.com",
+                ".yuanfudao.com",
+                ".yuansouti.com",
+                ".yuantiku.com"
+            ]
+        }
+    ]
+}

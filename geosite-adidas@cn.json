@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "adidas.com.cn",
+            "domain_suffix": ".adidas.com.cn"
+        }
+    ]
+}

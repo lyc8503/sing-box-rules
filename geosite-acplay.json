@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "acplay.net",
+                "dandanplay.com"
+            ],
+            "domain_suffix": [
+                ".acplay.net",
+                ".dandanplay.com"
+            ]
+        }
+    ]
+}

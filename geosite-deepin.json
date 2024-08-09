@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "deepin.cn",
+                "deepin.com",
+                "deepin.io",
+                "deepin.org",
+                "chinauos.com",
+                "uniontech.com"
+            ],
+            "domain_suffix": [
+                ".deepin.cn",
+                ".deepin.com",
+                ".deepin.io",
+                ".deepin.org",
+                ".chinauos.com",
+                ".uniontech.com"
+            ]
+        }
+    ]
+}

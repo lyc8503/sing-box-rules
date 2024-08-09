@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "supersonic.com",
+                "supersonicads.com",
+                "ssacdn.com",
+                "supersonicads-a.akamaihd.net"
+            ],
+            "domain_suffix": [
+                ".supersonic.com",
+                ".supersonicads.com",
+                ".ssacdn.com",
+                ".supersonicads-a.akamaihd.net"
+            ]
+        }
+    ]
+}

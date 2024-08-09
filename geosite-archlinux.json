@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "archlinux.org",
+                "archlinuxarm.org"
+            ],
+            "domain_suffix": [
+                ".archlinux.org",
+                ".archlinuxarm.org"
+            ]
+        }
+    ]
+}

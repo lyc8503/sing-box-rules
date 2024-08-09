@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hellofontpreview.oss-cn-beijing.aliyuncs.com",
+                "hellowebfonts.oss-cn-beijing.aliyuncs.com",
+                "hellofont.cn",
+                "hellowebfont.com"
+            ],
+            "domain_suffix": [
+                ".hellofont.cn",
+                ".hellowebfont.com"
+            ]
+        }
+    ]
+}

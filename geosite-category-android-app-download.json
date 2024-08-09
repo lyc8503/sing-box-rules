@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "apkcombo.com",
+                "apkmirror.com",
+                "apkpure.com",
+                "apkpure.net",
+                "cdnpure.com",
+                "pureapk.com",
+                "winudf.com"
+            ],
+            "domain_suffix": [
+                ".apkcombo.com",
+                ".apkmirror.com",
+                ".apkpure.com",
+                ".apkpure.net",
+                ".cdnpure.com",
+                ".pureapk.com",
+                ".winudf.com"
+            ]
+        }
+    ]
+}

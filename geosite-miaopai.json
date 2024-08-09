@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "miaopai.com",
+            "domain_suffix": ".miaopai.com"
+        }
+    ]
+}

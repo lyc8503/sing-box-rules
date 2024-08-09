@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "antutu.com",
+            "domain_suffix": ".antutu.com"
+        }
+    ]
+}

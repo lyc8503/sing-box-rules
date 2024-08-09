@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "perplexity.ai",
+            "domain_suffix": ".perplexity.ai"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "baydn.com",
+                "shanbay.com"
+            ],
+            "domain_suffix": [
+                ".baydn.com",
+                ".shanbay.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mlog.hiido.com",
+                "ylog.hiido.com"
+            ],
+            "domain_suffix": [
+                ".mlog.hiido.com",
+                ".ylog.hiido.com"
+            ]
+        }
+    ]
+}

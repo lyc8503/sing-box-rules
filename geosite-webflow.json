@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "webflow.com",
+            "domain_suffix": ".webflow.com"
+        }
+    ]
+}

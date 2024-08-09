@@ -1,0 +1,50 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mvk.com",
+                "userapi.com",
+                "vk-cdn.me",
+                "vk-cdn.net",
+                "vk-portal.net",
+                "vk.cc",
+                "vk.com",
+                "vk.design",
+                "vk.link",
+                "vk.me",
+                "vkcache.com",
+                "vkgo.app",
+                "vklive.app",
+                "vkmessenger.com",
+                "vkmessenger.app",
+                "vkontakte.ru",
+                "vkuseraudio.com",
+                "vkuserlive.net",
+                "vkuservideo.com",
+                "vkuservideo.net"
+            ],
+            "domain_suffix": [
+                ".mvk.com",
+                ".userapi.com",
+                ".vk-cdn.me",
+                ".vk-cdn.net",
+                ".vk-portal.net",
+                ".vk.cc",
+                ".vk.com",
+                ".vk.design",
+                ".vk.link",
+                ".vk.me",
+                ".vkcache.com",
+                ".vkgo.app",
+                ".vklive.app",
+                ".vkmessenger.com",
+                ".vkmessenger.app",
+                ".vkontakte.ru",
+                ".vkuseraudio.com",
+                ".vkuserlive.net",
+                ".vkuservideo.com",
+                ".vkuservideo.net"
+            ]
+        }
+    ]
+}

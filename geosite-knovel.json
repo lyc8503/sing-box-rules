@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "knovel.com",
+            "domain_suffix": ".knovel.com"
+        }
+    ]
+}

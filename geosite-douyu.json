@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "douyu.com",
+                "douyu.tv",
+                "douyucdn.cn",
+                "douyucdn2.cn",
+                "douyuscdn.com",
+                "douyutv.com"
+            ],
+            "domain_suffix": [
+                ".douyu.com",
+                ".douyu.tv",
+                ".douyucdn.cn",
+                ".douyucdn2.cn",
+                ".douyuscdn.com",
+                ".douyutv.com"
+            ]
+        }
+    ]
+}

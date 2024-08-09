@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "koocdn.com",
+                "koolearn.com",
+                "koopass.com"
+            ],
+            "domain_suffix": [
+                ".koocdn.com",
+                ".koolearn.com",
+                ".koopass.com"
+            ]
+        }
+    ]
+}

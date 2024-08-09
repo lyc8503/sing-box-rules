@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "uberads.com",
+            "domain_suffix": ".uberads.com"
+        }
+    ]
+}

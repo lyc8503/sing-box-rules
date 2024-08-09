@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "osdn.net",
+            "domain_suffix": ".osdn.net"
+        }
+    ]
+}

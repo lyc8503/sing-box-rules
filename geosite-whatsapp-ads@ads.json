@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "graph.whatsapp.com",
+                "graph.whatsapp.net"
+            ],
+            "domain_suffix": [
+                ".graph.whatsapp.com",
+                ".graph.whatsapp.net"
+            ]
+        }
+    ]
+}

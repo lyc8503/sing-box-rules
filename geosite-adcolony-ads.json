@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "adcolony.com",
+            "domain_suffix": ".adcolony.com"
+        }
+    ]
+}

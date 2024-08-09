@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "callersbane.com",
+                "minecraft.net",
+                "minecraftshop.com",
+                "mojang.com"
+            ],
+            "domain_suffix": [
+                ".callersbane.com",
+                ".minecraft.net",
+                ".minecraftshop.com",
+                ".mojang.com"
+            ]
+        }
+    ]
+}

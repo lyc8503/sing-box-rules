@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "compose-spec.io",
+                "docker.com",
+                "docker.io"
+            ],
+            "domain_suffix": [
+                ".compose-spec.io",
+                ".docker.com",
+                ".docker.io"
+            ]
+        }
+    ]
+}

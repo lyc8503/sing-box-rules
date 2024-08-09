@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "geekpark.net",
+            "domain_suffix": ".geekpark.net"
+        }
+    ]
+}

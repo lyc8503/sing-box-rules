@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "jianshu.com",
+                "jianshu.io"
+            ],
+            "domain_suffix": [
+                ".jianshu.com",
+                ".jianshu.io"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "sitepoint.com",
+            "domain_suffix": ".sitepoint.com"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "tvbc.com.cn",
+                "thetype.cloud",
+                "etnet.com.cn",
+                "etnetchina.com.cn"
+            ],
+            "domain_suffix": [
+                ".tvbc.com.cn",
+                ".thetype.cloud",
+                ".etnet.com.cn",
+                ".etnetchina.com.cn"
+            ]
+        }
+    ]
+}

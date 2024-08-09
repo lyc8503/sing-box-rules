@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "scenesource.me",
+                "scnsrc.me"
+            ],
+            "domain_suffix": [
+                ".scenesource.me",
+                ".scnsrc.me"
+            ]
+        }
+    ]
+}

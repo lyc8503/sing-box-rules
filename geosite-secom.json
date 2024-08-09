@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "secomtrust.net",
+                "secom.co.jp",
+                "cybertrust.co.jp",
+                "cybertrust.ne.jp",
+                "managedpki.ne.jp"
+            ],
+            "domain_suffix": [
+                ".secomtrust.net",
+                ".secom.co.jp",
+                ".cybertrust.co.jp",
+                ".cybertrust.ne.jp",
+                ".managedpki.ne.jp"
+            ]
+        }
+    ]
+}

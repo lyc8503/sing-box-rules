@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "baltamatica.com",
+            "domain_suffix": ".baltamatica.com"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "coolbuy.com",
+                "ifanr.com",
+                "ifanr.in",
+                "ifanrusercontent.com",
+                "ifanrx.com",
+                "minapp.com"
+            ],
+            "domain_suffix": [
+                ".coolbuy.com",
+                ".ifanr.com",
+                ".ifanr.in",
+                ".ifanrusercontent.com",
+                ".ifanrx.com",
+                ".minapp.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "keybase.io",
+                "keybaseapi.com"
+            ],
+            "domain_suffix": [
+                ".keybase.io",
+                ".keybaseapi.com"
+            ]
+        }
+    ]
+}

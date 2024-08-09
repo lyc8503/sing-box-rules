@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "evt.mxplay.com",
+            "domain_suffix": ".evt.mxplay.com"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mob.com",
+                "dutils.com",
+                "accuratead.cn"
+            ],
+            "domain_suffix": [
+                ".mob.com",
+                ".dutils.com",
+                ".accuratead.cn"
+            ]
+        }
+    ]
+}

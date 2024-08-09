@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "xhscdn.com",
+                "xhscdn.net",
+                "xiaohongshu.com"
+            ],
+            "domain_suffix": [
+                ".xhscdn.com",
+                ".xhscdn.net",
+                ".xiaohongshu.com"
+            ]
+        }
+    ]
+}

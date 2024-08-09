@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "ads.pubmatic.com",
+            "domain_suffix": ".ads.pubmatic.com"
+        }
+    ]
+}
