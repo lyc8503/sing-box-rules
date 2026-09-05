@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cf-ipfs.com",
+                "cloudflare-ipfs.com"
+            ],
+            "domain_suffix": [
+                ".cf-ipfs.com",
+                ".cloudflare-ipfs.com"
+            ]
+        }
+    ]
+}

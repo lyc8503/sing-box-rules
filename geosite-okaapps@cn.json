@@ -1,0 +1,7 @@
+{
+    "rules": [
+        {
+            "domain_regex": "^(.+\\.)*zh\\.okaapps\\.com$"
+        }
+    ]
+}

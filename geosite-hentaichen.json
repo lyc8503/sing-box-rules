@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "h-chan.me",
+                "hentai-chan.com",
+                "hentai-chan.live",
+                "hentaichan.live",
+                "hentaichan.me",
+                "imgschan.xyz"
+            ],
+            "domain_suffix": [
+                ".h-chan.me",
+                ".hentai-chan.com",
+                ".hentai-chan.live",
+                ".hentaichan.live",
+                ".hentaichan.me",
+                ".imgschan.xyz"
+            ]
+        }
+    ]
+}

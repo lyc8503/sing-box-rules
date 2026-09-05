@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "cn-cdn1.skymansion.net",
+            "domain_suffix": ".cn-cdn1.skymansion.net"
+        }
+    ]
+}

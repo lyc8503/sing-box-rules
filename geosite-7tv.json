@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "7tv.app",
+                "7tv.io"
+            ],
+            "domain_suffix": [
+                ".7tv.app",
+                ".7tv.io"
+            ]
+        }
+    ]
+}

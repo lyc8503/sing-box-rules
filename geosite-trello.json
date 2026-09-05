@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "trello.com",
+                "trellocdn.com"
+            ],
+            "domain_suffix": [
+                ".trello.com",
+                ".trellocdn.com"
+            ]
+        }
+    ]
+}

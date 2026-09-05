@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "rmbl.ws",
+                "rumble.com"
+            ],
+            "domain_suffix": [
+                ".rmbl.ws",
+                ".rumble.com"
+            ]
+        }
+    ]
+}

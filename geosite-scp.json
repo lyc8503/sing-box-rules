@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "scp-wiki.net",
+                "scpdb.org",
+                "scpwiki.com"
+            ],
+            "domain_suffix": [
+                ".scp-wiki.net",
+                ".scpdb.org",
+                ".scpwiki.com"
+            ]
+        }
+    ]
+}

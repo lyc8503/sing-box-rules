@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "speedtest.hk.chinamobile.com",
+                "speedtestbb.hk.chinamobile.com"
+            ],
+            "domain_suffix": [
+                ".speedtest.hk.chinamobile.com",
+                ".speedtestbb.hk.chinamobile.com"
+            ]
+        }
+    ]
+}

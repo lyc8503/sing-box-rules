@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "feng.com",
+                "fengimg.com",
+                "weiphone.net",
+                "wfdata.club"
+            ],
+            "domain_suffix": [
+                ".feng.com",
+                ".fengimg.com",
+                ".weiphone.net",
+                ".wfdata.club"
+            ]
+        }
+    ]
+}

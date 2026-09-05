@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "steemit.com",
+            "domain_suffix": ".steemit.com"
+        }
+    ]
+}

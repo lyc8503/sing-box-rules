@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kontur.ru",
+                "kontur.host",
+                "kontur-inc.com",
+                "metrika.kontur.ru",
+                "sentry.kontur.host"
+            ],
+            "domain_suffix": [
+                ".kontur.ru",
+                ".kontur.host",
+                ".kontur-inc.com"
+            ]
+        }
+    ]
+}

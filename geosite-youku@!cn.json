@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "youku.tv",
+                "youkuplay.com"
+            ],
+            "domain_suffix": [
+                ".youku.tv",
+                ".youkuplay.com"
+            ]
+        }
+    ]
+}

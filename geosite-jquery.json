@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "jquery.com",
+                "jquerymobile.com",
+                "jqueryui.com"
+            ],
+            "domain_suffix": [
+                ".jquery.com",
+                ".jquerymobile.com",
+                ".jqueryui.com"
+            ]
+        }
+    ]
+}

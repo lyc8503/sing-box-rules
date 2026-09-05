@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "zotero.org",
+            "domain_suffix": ".zotero.org"
+        }
+    ]
+}

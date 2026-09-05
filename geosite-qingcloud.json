@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "frontwize.com",
+                "qingcache.com",
+                "qingcloud.com",
+                "qingstor.com",
+                "routewize.com",
+                "yunify.com"
+            ],
+            "domain_suffix": [
+                ".frontwize.com",
+                ".qingcache.com",
+                ".qingcloud.com",
+                ".qingstor.com",
+                ".routewize.com",
+                ".yunify.com"
+            ]
+        }
+    ]
+}

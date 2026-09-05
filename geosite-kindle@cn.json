@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kindle.cn",
+                "kindleoasis.cn",
+                "kindleoasis.com.cn"
+            ],
+            "domain_suffix": [
+                ".kindle.cn",
+                ".kindleoasis.cn",
+                ".kindleoasis.com.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ppl-ai-file-upload.s3.amazonaws.com",
+                "pplx-res.cloudinary.com",
+                "perplexity.ai",
+                "perplexity.com",
+                "pplx.ai"
+            ],
+            "domain_suffix": [
+                ".perplexity.ai",
+                ".perplexity.com",
+                ".pplx.ai"
+            ]
+        }
+    ]
+}

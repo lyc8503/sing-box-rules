@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ipify.cn",
+                "iplark.com",
+                "ipw.cn",
+                "testipv6.cn",
+                "whois.pconline.com.cn"
+            ],
+            "domain_suffix": [
+                ".ipify.cn",
+                ".iplark.com",
+                ".ipw.cn",
+                ".testipv6.cn",
+                ".whois.pconline.com.cn"
+            ]
+        }
+    ]
+}

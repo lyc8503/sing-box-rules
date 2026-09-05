@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "livinno.org",
+                "opac-project.eu",
+                "liv.ac.uk",
+                "liverpool.ac.uk"
+            ],
+            "domain_suffix": [
+                ".livinno.org",
+                ".opac-project.eu",
+                ".liv.ac.uk",
+                ".liverpool.ac.uk"
+            ]
+        }
+    ]
+}

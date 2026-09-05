@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "log-upload.mihoyo.com",
+            "domain_suffix": ".log-upload.mihoyo.com"
+        }
+    ]
+}

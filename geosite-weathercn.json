@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hf-aw.cn",
+                "hf-aw.com",
+                "huafeng-accuweather.cn",
+                "huafengaw.com",
+                "weathercn.com"
+            ],
+            "domain_suffix": [
+                ".hf-aw.cn",
+                ".hf-aw.com",
+                ".huafeng-accuweather.cn",
+                ".huafengaw.com",
+                ".weathercn.com"
+            ]
+        }
+    ]
+}

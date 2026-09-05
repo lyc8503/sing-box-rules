@@ -1,0 +1,27 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mdn.mozillademos.org",
+                "mdn.dev",
+                "mdnplay.dev",
+                "mdnyalp.dev",
+                "developer.allizom.org",
+                "developer.mozilla.org",
+                "mdn.allizom.net",
+                "mdn.mozilla.net",
+                "mdn.mozit.cloud"
+            ],
+            "domain_suffix": [
+                ".mdn.dev",
+                ".mdnplay.dev",
+                ".mdnyalp.dev",
+                ".developer.allizom.org",
+                ".developer.mozilla.org",
+                ".mdn.allizom.net",
+                ".mdn.mozilla.net",
+                ".mdn.mozit.cloud"
+            ]
+        }
+    ]
+}

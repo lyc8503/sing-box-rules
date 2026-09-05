@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "coursera-for-business.org",
+                "coursera.community",
+                "coursera.help",
+                "coursera.org"
+            ],
+            "domain_suffix": [
+                ".coursera-for-business.org",
+                ".coursera.community",
+                ".coursera.help",
+                ".coursera.org"
+            ]
+        }
+    ]
+}

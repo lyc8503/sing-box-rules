@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "temp-mail.org",
+            "domain_suffix": ".temp-mail.org"
+        }
+    ]
+}

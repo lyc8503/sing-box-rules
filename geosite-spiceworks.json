@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "spiceworks.com",
+                "spiceworksstatic.com"
+            ],
+            "domain_suffix": [
+                ".spiceworks.com",
+                ".spiceworksstatic.com"
+            ]
+        }
+    ]
+}

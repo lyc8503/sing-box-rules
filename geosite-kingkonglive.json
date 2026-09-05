@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kingkongapp.com",
+                "kingkong.com.tw"
+            ],
+            "domain_suffix": [
+                ".kingkongapp.com",
+                ".kingkong.com.tw"
+            ]
+        }
+    ]
+}

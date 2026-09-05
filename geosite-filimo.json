@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "filimo.com",
+                "filimo.school"
+            ],
+            "domain_suffix": [
+                ".filimo.com",
+                ".filimo.school"
+            ]
+        }
+    ]
+}

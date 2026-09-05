@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kechuang.org",
+                "kexinshe.com"
+            ],
+            "domain_suffix": [
+                ".kechuang.org",
+                ".kexinshe.com"
+            ]
+        }
+    ]
+}

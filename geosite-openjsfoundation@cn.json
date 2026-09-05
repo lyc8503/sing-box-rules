@@ -1,0 +1,7 @@
+{
+    "rules": [
+        {
+            "domain": "cdn.ampproject.org"
+        }
+    ]
+}

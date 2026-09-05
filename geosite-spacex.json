@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "spacex.com",
+                "starlink.com"
+            ],
+            "domain_suffix": [
+                ".spacex.com",
+                ".starlink.com"
+            ]
+        }
+    ]
+}

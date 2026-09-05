@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "st.com",
+                "stmicroelectronics.com.cn"
+            ],
+            "domain_suffix": [
+                ".st.com",
+                ".stmicroelectronics.com.cn"
+            ]
+        }
+    ]
+}

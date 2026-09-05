@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "readthedocs-hosted.com",
+                "readthedocs.com",
+                "readthedocs.io",
+                "readthedocs.org"
+            ],
+            "domain_suffix": [
+                ".readthedocs-hosted.com",
+                ".readthedocs.com",
+                ".readthedocs.io",
+                ".readthedocs.org"
+            ]
+        }
+    ]
+}

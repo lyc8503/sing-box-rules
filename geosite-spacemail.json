@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "spacemail.com",
+            "domain_suffix": ".spacemail.com"
+        }
+    ]
+}

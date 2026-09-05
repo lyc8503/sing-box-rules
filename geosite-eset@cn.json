@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "cn.eset.com",
+            "domain_suffix": ".cn.eset.com"
+        }
+    ]
+}

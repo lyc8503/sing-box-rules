@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "tumblr.com",
+            "domain_suffix": ".tumblr.com"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "vfsco.com.cn",
+                "volvo.cn",
+                "volvo.com.cn",
+                "volvogroup.cn",
+                "volvogroup.com.cn",
+                "volvotrucks.com.cn"
+            ],
+            "domain_suffix": [
+                ".vfsco.com.cn",
+                ".volvo.cn",
+                ".volvo.com.cn",
+                ".volvogroup.cn",
+                ".volvogroup.com.cn",
+                ".volvotrucks.com.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mastercard.cn",
+                "mastercard.com.cn",
+                "priceless.com.cn",
+                "pricelessbeijing.cn",
+                "pricelessbeijing.com.cn",
+                "travelex.com.cn"
+            ],
+            "domain_suffix": [
+                ".mastercard.cn",
+                ".mastercard.com.cn",
+                ".priceless.com.cn",
+                ".pricelessbeijing.cn",
+                ".pricelessbeijing.com.cn",
+                ".travelex.com.cn"
+            ]
+        }
+    ]
+}

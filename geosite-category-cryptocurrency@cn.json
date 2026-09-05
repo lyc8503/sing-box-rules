@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "oklink.com",
+            "domain_suffix": ".oklink.com"
+        }
+    ]
+}

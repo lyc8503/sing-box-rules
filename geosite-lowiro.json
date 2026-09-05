@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "lowiro.com",
+            "domain_suffix": ".lowiro.com"
+        }
+    ]
+}

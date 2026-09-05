@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "infrapedia.com",
+            "domain_suffix": ".infrapedia.com"
+        }
+    ]
+}

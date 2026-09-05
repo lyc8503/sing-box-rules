@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "metart.com",
+                "metartnetwork.com",
+                "metcams.com",
+                "naiadsystems.com",
+                "nsimg.net"
+            ],
+            "domain_suffix": [
+                ".metart.com",
+                ".metartnetwork.com",
+                ".metcams.com",
+                ".naiadsystems.com",
+                ".nsimg.net"
+            ]
+        }
+    ]
+}

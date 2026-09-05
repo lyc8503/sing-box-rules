@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nutaku.com",
+                "nutaku.net"
+            ],
+            "domain_suffix": [
+                ".nutaku.com",
+                ".nutaku.net"
+            ]
+        }
+    ]
+}

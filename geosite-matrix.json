@@ -1,0 +1,28 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "arewereadyyet.com",
+                "cinny.in",
+                "element.io",
+                "fluffychat.im",
+                "matrix.org",
+                "matrix.to",
+                "modular.im",
+                "riot.im",
+                "vector.im"
+            ],
+            "domain_suffix": [
+                ".arewereadyyet.com",
+                ".cinny.in",
+                ".element.io",
+                ".fluffychat.im",
+                ".matrix.org",
+                ".matrix.to",
+                ".modular.im",
+                ".riot.im",
+                ".vector.im"
+            ]
+        }
+    ]
+}
