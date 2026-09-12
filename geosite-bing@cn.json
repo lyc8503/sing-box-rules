@@ -1,0 +1,25 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bing.com.cn",
+                "cn.bing.com",
+                "cn.bing.net",
+                "cn.mm.bing.net",
+                "ditu.live.com",
+                "r.bing.com",
+                "th.bing.com",
+                "bj1.api.bing.com"
+            ],
+            "domain_suffix": [
+                ".bing.com.cn",
+                ".cn.bing.com",
+                ".cn.bing.net",
+                ".cn.mm.bing.net",
+                ".ditu.live.com",
+                ".r.bing.com",
+                ".th.bing.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "oath.cloud",
+                "oath.com",
+                "ouroath.com",
+                "static-verizon.com",
+                "uplynk.com",
+                "verizon.com",
+                "verizon.net",
+                "verizonbusinessfios.com",
+                "verizondigitalmedia.com",
+                "verizonenterprise.com",
+                "verizonfios.com",
+                "verizonmedia.com",
+                "verizonwireless.com",
+                "vzw.com",
+                "xo.com"
+            ],
+            "domain_suffix": [
+                ".oath.cloud",
+                ".oath.com",
+                ".ouroath.com",
+                ".static-verizon.com",
+                ".uplynk.com",
+                ".verizon.com",
+                ".verizon.net",
+                ".verizonbusinessfios.com",
+                ".verizondigitalmedia.com",
+                ".verizonenterprise.com",
+                ".verizonfios.com",
+                ".verizonmedia.com",
+                ".verizonwireless.com",
+                ".vzw.com",
+                ".xo.com"
+            ]
+        }
+    ]
+}

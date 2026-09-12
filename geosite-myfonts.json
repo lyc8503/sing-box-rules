@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "myfonts.com",
+                "myfonts.net"
+            ],
+            "domain_suffix": [
+                ".myfonts.com",
+                ".myfonts.net"
+            ]
+        }
+    ]
+}

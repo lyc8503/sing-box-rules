@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "aiganggu.com",
+                "danjuanfunds.com",
+                "imedao.com",
+                "snowballsecurities.com",
+                "xueqiu.com"
+            ],
+            "domain_suffix": [
+                ".aiganggu.com",
+                ".danjuanfunds.com",
+                ".imedao.com",
+                ".snowballsecurities.com",
+                ".xueqiu.com"
+            ]
+        }
+    ]
+}

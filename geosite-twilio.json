@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "twilio.com",
+                "twilio.jp",
+                "tytch.com"
+            ],
+            "domain_suffix": [
+                ".twilio.com",
+                ".twilio.jp",
+                ".tytch.com"
+            ]
+        }
+    ]
+}

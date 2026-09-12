@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cursor-cdn.com",
+                "cursor.com",
+                "cursor.sh",
+                "cursorapi.com"
+            ],
+            "domain_suffix": [
+                ".cursor-cdn.com",
+                ".cursor.com",
+                ".cursor.sh",
+                ".cursorapi.com"
+            ]
+        }
+    ]
+}

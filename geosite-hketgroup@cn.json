@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "etnet.com.cn",
+                "etnetchina.com.cn"
+            ],
+            "domain_suffix": [
+                ".etnet.com.cn",
+                ".etnetchina.com.cn"
+            ]
+        }
+    ]
+}

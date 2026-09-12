@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "leagueoflegends.cn",
+                "lpl.com.cn"
+            ],
+            "domain_suffix": [
+                ".leagueoflegends.cn",
+                ".lpl.com.cn"
+            ]
+        }
+    ]
+}

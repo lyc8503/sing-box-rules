@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "miniso.cn",
+                "minisohome.cn",
+                "minsio.cn"
+            ],
+            "domain_suffix": [
+                ".miniso.cn",
+                ".minisohome.cn",
+                ".minsio.cn"
+            ]
+        }
+    ]
+}

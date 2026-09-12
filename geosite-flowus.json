@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "allflow.cn",
+                "flowus.cn"
+            ],
+            "domain_suffix": [
+                ".allflow.cn",
+                ".flowus.cn"
+            ]
+        }
+    ]
+}

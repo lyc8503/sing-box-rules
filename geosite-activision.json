@@ -1,0 +1,52 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "activision.com",
+                "callofduty.com",
+                "callofdutyendowment.com",
+                "callofdutyendowment.org",
+                "callofdutyleague.com",
+                "callofdutymobile.com",
+                "crashbandicoot.com",
+                "demonware.net",
+                "highmoonstudios.com",
+                "infinityward.com",
+                "ravensoftware.com",
+                "sekirothegame.com",
+                "sierragames.com",
+                "skylanders.com",
+                "sledgehammergames.com",
+                "solidstate.com",
+                "spyrothedragon.com",
+                "tonyhawk.com",
+                "tonyhawkthegame.com",
+                "treyarch.com",
+                "worldseriesofwarzone.com"
+            ],
+            "domain_suffix": [
+                ".activision.com",
+                ".callofduty.com",
+                ".callofdutyendowment.com",
+                ".callofdutyendowment.org",
+                ".callofdutyleague.com",
+                ".callofdutymobile.com",
+                ".crashbandicoot.com",
+                ".demonware.net",
+                ".highmoonstudios.com",
+                ".infinityward.com",
+                ".ravensoftware.com",
+                ".sekirothegame.com",
+                ".sierragames.com",
+                ".skylanders.com",
+                ".sledgehammergames.com",
+                ".solidstate.com",
+                ".spyrothedragon.com",
+                ".tonyhawk.com",
+                ".tonyhawkthegame.com",
+                ".treyarch.com",
+                ".worldseriesofwarzone.com"
+            ]
+        }
+    ]
+}

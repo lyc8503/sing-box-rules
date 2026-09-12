@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "corel.com",
+                "corel.net",
+                "coreldraw.app",
+                "coreldraw.com",
+                "corelstore.com"
+            ],
+            "domain_suffix": [
+                ".corel.com",
+                ".corel.net",
+                ".coreldraw.app",
+                ".coreldraw.com",
+                ".corelstore.com"
+            ]
+        }
+    ]
+}

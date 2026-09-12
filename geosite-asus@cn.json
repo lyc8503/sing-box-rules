@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "asus.com.cn",
+            "domain_suffix": ".asus.com.cn"
+        }
+    ]
+}

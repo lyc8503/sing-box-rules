@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "rutube.ru",
+                "rutubelist.ru",
+                "rtbcdn.ru",
+                "rutube.sport"
+            ],
+            "domain_suffix": [
+                ".rutube.ru",
+                ".rutubelist.ru",
+                ".rtbcdn.ru",
+                ".rutube.sport"
+            ]
+        }
+    ]
+}

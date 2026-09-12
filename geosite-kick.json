@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "kick.com",
+            "domain_suffix": ".kick.com"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "citics.com.hk",
+                "cncbinternational.com",
+                "csci.hk"
+            ],
+            "domain_suffix": [
+                ".citics.com.hk",
+                ".cncbinternational.com",
+                ".csci.hk"
+            ]
+        }
+    ]
+}

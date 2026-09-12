@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "easylist.to",
+                "lanik.us"
+            ],
+            "domain_suffix": [
+                ".easylist.to",
+                ".lanik.us"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "chatango.com",
+            "domain_suffix": ".chatango.com"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "whoosh-bike.ru",
+                "whoosh.bike"
+            ],
+            "domain_suffix": [
+                ".whoosh-bike.ru",
+                ".whoosh.bike"
+            ]
+        }
+    ]
+}

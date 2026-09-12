@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "illgames.jp",
+                "japan-illgames.com"
+            ],
+            "domain_suffix": [
+                ".illgames.jp",
+                ".japan-illgames.com"
+            ]
+        }
+    ]
+}

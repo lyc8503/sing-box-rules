@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cambridge.org",
+                "cambridgeschoolshakespeare.com",
+                "cambridgedigital.net",
+                "cambridgemaths.org",
+                "cam.ac.uk",
+                "dlib.eastview.com"
+            ],
+            "domain_suffix": [
+                ".cambridge.org",
+                ".cambridgeschoolshakespeare.com",
+                ".cambridgedigital.net",
+                ".cambridgemaths.org",
+                ".cam.ac.uk",
+                ".dlib.eastview.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "w3schools.com",
+            "domain_suffix": ".w3schools.com"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "linakesi.com",
+                "linakesi.cn",
+                "lazycat.cloud",
+                "heiyu.space"
+            ],
+            "domain_suffix": [
+                ".linakesi.com",
+                ".linakesi.cn",
+                ".lazycat.cloud",
+                ".heiyu.space"
+            ]
+        }
+    ]
+}

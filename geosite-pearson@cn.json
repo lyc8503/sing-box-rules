@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "pearson.com.cn",
+            "domain_suffix": ".pearson.com.cn"
+        }
+    ]
+}

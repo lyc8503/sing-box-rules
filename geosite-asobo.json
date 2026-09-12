@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "flightsimulator.azureedge.net",
+                "asobostudio.com",
+                "flightsimulator.com"
+            ],
+            "domain_suffix": [
+                ".asobostudio.com",
+                ".flightsimulator.com"
+            ]
+        }
+    ]
+}

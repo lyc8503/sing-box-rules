@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nga.cn",
+                "178.com",
+                "ngabbs.com",
+                "ngacn.cc"
+            ],
+            "domain_suffix": [
+                ".nga.cn",
+                ".178.com",
+                ".ngabbs.com",
+                ".ngacn.cc"
+            ]
+        }
+    ]
+}

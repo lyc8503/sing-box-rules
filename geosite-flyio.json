@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "fly.dev",
+                "fly.io",
+                "flyio.net"
+            ],
+            "domain_suffix": [
+                ".fly.dev",
+                ".fly.io",
+                ".flyio.net"
+            ]
+        }
+    ]
+}

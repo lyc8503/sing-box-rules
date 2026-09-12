@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "manoto1.tv",
+                "manototv.com"
+            ],
+            "domain_suffix": [
+                ".manoto1.tv",
+                ".manototv.com"
+            ]
+        }
+    ]
+}

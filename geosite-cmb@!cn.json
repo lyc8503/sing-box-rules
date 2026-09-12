@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cmbi.com.hk",
+                "cmbwinglungbank.com"
+            ],
+            "domain_suffix": [
+                ".cmbi.com.hk",
+                ".cmbwinglungbank.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kucoin.com",
+                "kucoin.plus"
+            ],
+            "domain_suffix": [
+                ".kucoin.com",
+                ".kucoin.plus"
+            ]
+        }
+    ]
+}

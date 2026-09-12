@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "517lppz.com",
+                "lppz.com",
+                "lppzimg.com"
+            ],
+            "domain_suffix": [
+                ".517lppz.com",
+                ".lppz.com",
+                ".lppzimg.com"
+            ]
+        }
+    ]
+}

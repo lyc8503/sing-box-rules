@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "alibaba.ir",
+                "flightio.com",
+                "mrbilit.com",
+                "tap30.services",
+                "tap33.me",
+                "tapsi.cab",
+                "tapsi.ir"
+            ],
+            "domain_suffix": [
+                ".alibaba.ir",
+                ".flightio.com",
+                ".mrbilit.com",
+                ".tap30.services",
+                ".tap33.me",
+                ".tapsi.cab",
+                ".tapsi.ir"
+            ]
+        }
+    ]
+}

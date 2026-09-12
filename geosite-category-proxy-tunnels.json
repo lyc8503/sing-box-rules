@@ -1,0 +1,42 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "equinox.io",
+                "ngrok-agent.com",
+                "ngrok-free.app",
+                "ngrok-free.dev",
+                "ngrok-free.pizza",
+                "ngrok.app",
+                "ngrok.com",
+                "ngrok.dev",
+                "ngrok.io",
+                "ngrok.pizza",
+                "ngrok.pro",
+                "pinggy.io",
+                "pinggy.link",
+                "tailscale.com",
+                "tailscale.io",
+                "ts.net"
+            ],
+            "domain_suffix": [
+                ".equinox.io",
+                ".ngrok-agent.com",
+                ".ngrok-free.app",
+                ".ngrok-free.dev",
+                ".ngrok-free.pizza",
+                ".ngrok.app",
+                ".ngrok.com",
+                ".ngrok.dev",
+                ".ngrok.io",
+                ".ngrok.pizza",
+                ".ngrok.pro",
+                ".pinggy.io",
+                ".pinggy.link",
+                ".tailscale.com",
+                ".tailscale.io",
+                ".ts.net"
+            ]
+        }
+    ]
+}

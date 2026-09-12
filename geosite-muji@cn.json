@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "muji.com.cn",
+            "domain_suffix": ".muji.com.cn"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "java.com",
+                "java.net"
+            ],
+            "domain_suffix": [
+                ".java",
+                ".java.com",
+                ".java.net"
+            ]
+        }
+    ]
+}
