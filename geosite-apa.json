@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "apa.org",
+                "psyccareers.com"
+            ],
+            "domain_suffix": [
+                ".apa.org",
+                ".psyccareers.com"
+            ]
+        }
+    ]
+}

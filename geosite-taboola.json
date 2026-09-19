@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "taboola.com",
+            "domain_suffix": ".taboola.com"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "homebrew.bintray.com",
+                "brew.sh"
+            ],
+            "domain_suffix": ".brew.sh"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hugecore.net",
+                "shareintelli.com",
+                "mojidict.com"
+            ],
+            "domain_suffix": [
+                ".hugecore.net",
+                ".shareintelli.com",
+                ".mojidict.com"
+            ]
+        }
+    ]
+}

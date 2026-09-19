@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "watchout.tw",
+                "waa.tw"
+            ],
+            "domain_suffix": [
+                ".watchout.tw",
+                ".waa.tw"
+            ]
+        }
+    ]
+}

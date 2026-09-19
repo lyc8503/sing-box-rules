@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ssl.com",
+                "sslcom.cn"
+            ],
+            "domain_suffix": [
+                ".ssl.com",
+                ".sslcom.cn"
+            ]
+        }
+    ]
+}

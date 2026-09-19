@@ -1,0 +1,10 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ad-channel.diwodiwo.xyz",
+                "ad-display.diwodiwo.xyz"
+            ]
+        }
+    ]
+}

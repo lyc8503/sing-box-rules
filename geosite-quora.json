@@ -1,0 +1,21 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "www.quora.com.cdn.cloudflare.net",
+                "qr.ae",
+                "quora.com",
+                "quoracdn.net",
+                "poe.com",
+                "poecdn.net"
+            ],
+            "domain_suffix": [
+                ".qr.ae",
+                ".quora.com",
+                ".quoracdn.net",
+                ".poe.com",
+                ".poecdn.net"
+            ]
+        }
+    ]
+}

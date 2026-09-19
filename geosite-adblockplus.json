@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "adblockplus.org",
+            "domain_suffix": ".adblockplus.org"
+        }
+    ]
+}

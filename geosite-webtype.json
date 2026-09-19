@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "webtype.com",
+            "domain_suffix": ".webtype.com"
+        }
+    ]
+}

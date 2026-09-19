@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cailianpress.com",
+                "chinastarmarket.cn",
+                "cls.cn",
+                "jiemian.com",
+                "jingpt.com",
+                "lanjinger.com",
+                "moer.cn",
+                "jiemian.com.cn"
+            ],
+            "domain_suffix": [
+                ".cailianpress.com",
+                ".chinastarmarket.cn",
+                ".cls.cn",
+                ".jiemian.com",
+                ".jingpt.com",
+                ".lanjinger.com",
+                ".moer.cn",
+                ".jiemian.com.cn"
+            ]
+        }
+    ]
+}

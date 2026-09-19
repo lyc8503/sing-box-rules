@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "timeweb.cloud",
+                "timeweb.com",
+                "twcstorage.ru"
+            ],
+            "domain_suffix": [
+                ".timeweb.cloud",
+                ".timeweb.com",
+                ".twcstorage.ru"
+            ]
+        }
+    ]
+}

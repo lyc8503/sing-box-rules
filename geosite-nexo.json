@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nexo.com",
+                "nexo.io"
+            ],
+            "domain_suffix": [
+                ".nexo.com",
+                ".nexo.io"
+            ]
+        }
+    ]
+}

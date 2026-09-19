@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "rainclassroom.com",
+                "yuketang.cn"
+            ],
+            "domain_suffix": [
+                ".rainclassroom.com",
+                ".yuketang.cn"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "typekit.com",
+                "typekit.net"
+            ],
+            "domain_suffix": [
+                ".typekit.com",
+                ".typekit.net"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dcard.cc",
+                "dcard.io",
+                "dcard.link",
+                "dcard.tw"
+            ],
+            "domain_suffix": [
+                ".dcard.cc",
+                ".dcard.io",
+                ".dcard.link",
+                ".dcard.tw"
+            ]
+        }
+    ]
+}

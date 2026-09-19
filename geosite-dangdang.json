@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dangdang.com",
+                "ddimg.cn"
+            ],
+            "domain_suffix": [
+                ".dangdang.com",
+                ".ddimg.cn"
+            ]
+        }
+    ]
+}

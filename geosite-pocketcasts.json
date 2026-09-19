@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "pca.st",
+                "pocketcasts.com"
+            ],
+            "domain_suffix": [
+                ".pca.st",
+                ".pocketcasts.com"
+            ]
+        }
+    ]
+}

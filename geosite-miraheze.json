@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "miraheze.org",
+            "domain_suffix": ".miraheze.org"
+        }
+    ]
+}

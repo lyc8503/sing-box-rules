@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "schoopia.com",
+                "tongxuepie.com"
+            ],
+            "domain_suffix": [
+                ".schoopia.com",
+                ".tongxuepie.com"
+            ]
+        }
+    ]
+}

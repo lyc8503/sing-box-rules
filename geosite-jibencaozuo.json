@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "jbcz.tv",
+                "jibencaozuo.com",
+                "media.paperclipclub.net"
+            ],
+            "domain_suffix": [
+                ".jbcz.tv",
+                ".jibencaozuo.com",
+                ".media.paperclipclub.net"
+            ]
+        }
+    ]
+}

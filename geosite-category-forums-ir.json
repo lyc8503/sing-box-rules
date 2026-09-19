@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "quera.ir",
+                "quera.org"
+            ],
+            "domain_suffix": [
+                ".quera.ir",
+                ".quera.org"
+            ]
+        }
+    ]
+}

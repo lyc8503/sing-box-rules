@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bootstrapcdn.com",
+                "getbootstrap.com"
+            ],
+            "domain_suffix": [
+                ".bootstrapcdn.com",
+                ".getbootstrap.com"
+            ]
+        }
+    ]
+}

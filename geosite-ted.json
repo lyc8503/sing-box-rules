@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ted.com",
+                "tedcdn.com"
+            ],
+            "domain_suffix": [
+                ".ted.com",
+                ".tedcdn.com"
+            ]
+        }
+    ]
+}
