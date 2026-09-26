@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "ebuyer.com",
+            "domain_suffix": ".ebuyer.com"
+        }
+    ]
+}

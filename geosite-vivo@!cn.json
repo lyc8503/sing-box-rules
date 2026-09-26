@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "vivoglobal.com",
+            "domain_suffix": ".vivoglobal.com"
+        }
+    ]
+}

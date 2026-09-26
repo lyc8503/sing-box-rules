@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mystrikingly.com",
+                "strikingly.com",
+                "strikinglycdn.com"
+            ],
+            "domain_suffix": [
+                ".mystrikingly.com",
+                ".strikingly.com",
+                ".strikinglycdn.com"
+            ]
+        }
+    ]
+}

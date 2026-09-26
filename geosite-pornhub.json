@@ -1,0 +1,28 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "gaytube.com",
+                "phncdn.com",
+                "phprcdn.com",
+                "porngub.com",
+                "pornhub-deutsch.net",
+                "pornhubapparel.com",
+                "pornhub.com",
+                "pornhub.org",
+                "pornhubpremium.com"
+            ],
+            "domain_suffix": [
+                ".gaytube.com",
+                ".phncdn.com",
+                ".phprcdn.com",
+                ".porngub.com",
+                ".pornhub-deutsch.net",
+                ".pornhubapparel.com",
+                ".pornhub.com",
+                ".pornhub.org",
+                ".pornhubpremium.com"
+            ]
+        }
+    ]
+}

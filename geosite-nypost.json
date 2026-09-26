@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nypost.com",
+                "nypost.help",
+                "nypostreprints.com"
+            ],
+            "domain_suffix": [
+                ".nypost.com",
+                ".nypost.help",
+                ".nypostreprints.com"
+            ]
+        }
+    ]
+}

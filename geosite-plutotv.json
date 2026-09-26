@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "pluto.tv",
+                "plutotv.net"
+            ],
+            "domain_suffix": [
+                ".pluto.tv",
+                ".plutotv.net"
+            ]
+        }
+    ]
+}

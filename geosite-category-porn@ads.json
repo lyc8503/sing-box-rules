@@ -1,0 +1,12 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ad-channel.diwodiwo.xyz",
+                "ad-display.diwodiwo.xyz",
+                "collector.xhamster.com"
+            ],
+            "domain_suffix": ".collector.xhamster.com"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "100tal.com",
+                "aoshu.com",
+                "eduu.com",
+                "eduuu.com",
+                "gaokao.com",
+                "speiyou.com",
+                "tal.com",
+                "xesimg.com",
+                "xueersi.com",
+                "youjiao.com",
+                "zhongkao.com",
+                "zuowen.com"
+            ],
+            "domain_suffix": [
+                ".100tal.com",
+                ".aoshu.com",
+                ".eduu.com",
+                ".eduuu.com",
+                ".gaokao.com",
+                ".speiyou.com",
+                ".tal.com",
+                ".xesimg.com",
+                ".xueersi.com",
+                ".youjiao.com",
+                ".zhongkao.com",
+                ".zuowen.com"
+            ]
+        }
+    ]
+}

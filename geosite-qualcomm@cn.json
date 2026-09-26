@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "gpsonextra.net",
+                "izatcloud.net",
+                "qceventscenter.com.cn",
+                "qualcomm.cn",
+                "qualcomm.cn.cdn.cloudflare.net",
+                "xtracloud.cn"
+            ],
+            "domain_suffix": [
+                ".gpsonextra.net",
+                ".izatcloud.net",
+                ".qceventscenter.com.cn",
+                ".qualcomm.cn",
+                ".qualcomm.cn.cdn.cloudflare.net",
+                ".xtracloud.cn"
+            ]
+        }
+    ]
+}

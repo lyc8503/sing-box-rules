@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bootcdn.cn",
+                "bootcdn.net",
+                "bootcss.com",
+                "phpcomposer.com"
+            ],
+            "domain_suffix": [
+                ".bootcdn.cn",
+                ".bootcdn.net",
+                ".bootcss.com",
+                ".phpcomposer.com"
+            ]
+        }
+    ]
+}

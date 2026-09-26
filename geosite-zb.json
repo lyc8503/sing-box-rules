@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "zb.app",
+                "zb.com",
+                "zb.io",
+                "zb.live"
+            ],
+            "domain_suffix": [
+                ".zb.app",
+                ".zb.com",
+                ".zb.io",
+                ".zb.live"
+            ]
+        }
+    ]
+}

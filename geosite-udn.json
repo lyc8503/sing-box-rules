@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "udn.com",
+                "udndata.com",
+                "udnfunlife.com",
+                "udn.com.tw"
+            ],
+            "domain_suffix": [
+                ".udn.com",
+                ".udndata.com",
+                ".udnfunlife.com",
+                ".udn.com.tw"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "poe.com",
+                "poecdn.net"
+            ],
+            "domain_suffix": [
+                ".poe.com",
+                ".poecdn.net"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "threads.com",
+                "threads.net"
+            ],
+            "domain_suffix": [
+                ".threads.com",
+                ".threads.net"
+            ]
+        }
+    ]
+}

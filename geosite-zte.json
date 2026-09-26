@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nubia.cn",
+                "nubia.com",
+                "redmagic.com",
+                "ztedevices.com",
+                "ztemall.com",
+                "ztems.com",
+                "zte.com.cn"
+            ],
+            "domain_suffix": [
+                ".nubia.cn",
+                ".nubia.com",
+                ".redmagic.com",
+                ".ztedevices.com",
+                ".ztemall.com",
+                ".ztems.com",
+                ".zte.com.cn"
+            ]
+        }
+    ]
+}

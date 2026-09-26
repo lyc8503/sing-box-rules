@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "polyv.net",
+                "videocc.net"
+            ],
+            "domain_suffix": [
+                ".polyv.net",
+                ".videocc.net"
+            ]
+        }
+    ]
+}

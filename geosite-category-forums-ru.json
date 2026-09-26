@@ -1,0 +1,30 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dtf.ru",
+                "opennet.dev",
+                "opennet.ru",
+                "prodota.ru",
+                "pikabu.ru",
+                "tischenko.su",
+                "vc.ru",
+                "yapfiles.ru",
+                "yaplakal.com",
+                "yap.ru"
+            ],
+            "domain_suffix": [
+                ".dtf.ru",
+                ".opennet.dev",
+                ".opennet.ru",
+                ".prodota.ru",
+                ".pikabu.ru",
+                ".tischenko.su",
+                ".vc.ru",
+                ".yapfiles.ru",
+                ".yaplakal.com",
+                ".yap.ru"
+            ]
+        }
+    ]
+}

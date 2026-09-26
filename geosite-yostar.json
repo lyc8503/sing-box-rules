@@ -1,0 +1,28 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "yo-star.com",
+                "yostar.net",
+                "yostarplat.com",
+                "stargazer-games.com",
+                "stellasora.global",
+                "stellasora.jp",
+                "yostar.co.jp",
+                "yostar-pictures.co.jp",
+                "yostar.cn"
+            ],
+            "domain_suffix": [
+                ".yo-star.com",
+                ".yostar.net",
+                ".yostarplat.com",
+                ".stargazer-games.com",
+                ".stellasora.global",
+                ".stellasora.jp",
+                ".yostar.co.jp",
+                ".yostar-pictures.co.jp",
+                ".yostar.cn"
+            ]
+        }
+    ]
+}

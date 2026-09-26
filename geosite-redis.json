@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "redis.io",
+                "redislabs.com"
+            ],
+            "domain_suffix": [
+                ".redis.io",
+                ".redislabs.com"
+            ]
+        }
+    ]
+}

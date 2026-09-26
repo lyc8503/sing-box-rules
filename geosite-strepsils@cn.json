@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "strepsils.cn",
+                "strepsils.com.cn"
+            ],
+            "domain_suffix": [
+                ".strepsils.cn",
+                ".strepsils.com.cn"
+            ]
+        }
+    ]
+}

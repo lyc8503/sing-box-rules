@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "avito.ru",
+                "avito.st",
+                "stats.avito.ru"
+            ],
+            "domain_suffix": [
+                ".avito.ru",
+                ".avito.st"
+            ]
+        }
+    ]
+}

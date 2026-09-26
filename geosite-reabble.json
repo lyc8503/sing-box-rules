@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "reabble.com",
+                "reabble.cn"
+            ],
+            "domain_suffix": [
+                ".reabble.com",
+                ".reabble.cn"
+            ]
+        }
+    ]
+}

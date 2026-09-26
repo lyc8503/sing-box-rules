@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "idg.com",
+                "idgcommunications.net",
+                "idgconnect-direct.com",
+                "idgconnect-resources.com",
+                "idgconnect.com",
+                "idgesg.net",
+                "idginc.com",
+                "idginsiderpro.com"
+            ],
+            "domain_suffix": [
+                ".idg.com",
+                ".idgcommunications.net",
+                ".idgconnect-direct.com",
+                ".idgconnect-resources.com",
+                ".idgconnect.com",
+                ".idgesg.net",
+                ".idginc.com",
+                ".idginsiderpro.com"
+            ]
+        }
+    ]
+}
