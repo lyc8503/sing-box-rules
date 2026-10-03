@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "oreilly.com.cn",
+            "domain_suffix": ".oreilly.com.cn"
+        }
+    ]
+}

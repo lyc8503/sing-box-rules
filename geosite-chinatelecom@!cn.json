@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "chinatelecomglobal.com",
+                "chinatelecomhk.com",
+                "ctexcel.ca",
+                "ctexcel.com",
+                "ctexcel.com.hk",
+                "ctexcel.fr",
+                "ctexcel.us"
+            ],
+            "domain_suffix": [
+                ".chinatelecomglobal.com",
+                ".chinatelecomhk.com",
+                ".ctexcel.ca",
+                ".ctexcel.com",
+                ".ctexcel.com.hk",
+                ".ctexcel.fr",
+                ".ctexcel.us"
+            ]
+        }
+    ]
+}

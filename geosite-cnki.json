@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cnki.net",
+                "chndoi.org",
+                "cnki.com.cn"
+            ],
+            "domain_suffix": [
+                ".cnki.net",
+                ".chndoi.org",
+                ".cnki.com.cn"
+            ]
+        }
+    ]
+}

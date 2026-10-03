@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "notion-static.com",
+                "notion-status.com",
+                "notion.com",
+                "notion.new",
+                "notion.site",
+                "notion.so",
+                "notionusercontent.com"
+            ],
+            "domain_suffix": [
+                ".notion-static.com",
+                ".notion-status.com",
+                ".notion.com",
+                ".notion.new",
+                ".notion.site",
+                ".notion.so",
+                ".notionusercontent.com"
+            ]
+        }
+    ]
+}

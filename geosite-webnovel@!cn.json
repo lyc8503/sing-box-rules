@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "webnovel.com",
+            "domain_suffix": ".webnovel.com"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "client-teamviewer-com.trafficmanager.net",
+                "teamviewer.com.cdn.cloudflare.net",
+                "teamviewer.com",
+                "teamviewer.us",
+                "teamviewer.cn"
+            ],
+            "domain_suffix": [
+                ".teamviewer.com",
+                ".teamviewer.us",
+                ".teamviewer.cn"
+            ]
+        }
+    ]
+}

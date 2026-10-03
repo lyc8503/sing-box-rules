@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "91q.com",
+                "dmhmusic.com",
+                "showstart.com",
+                "taihe.com",
+                "taihemusic.cn",
+                "th-music.com"
+            ],
+            "domain_suffix": [
+                ".91q.com",
+                ".dmhmusic.com",
+                ".showstart.com",
+                ".taihe.com",
+                ".taihemusic.cn",
+                ".th-music.com"
+            ]
+        }
+    ]
+}

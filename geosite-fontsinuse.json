@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "fontsinuse.com",
+            "domain_suffix": ".fontsinuse.com"
+        }
+    ]
+}

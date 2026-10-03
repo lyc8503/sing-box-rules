@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "smena.cafe",
+            "domain_suffix": ".smena.cafe"
+        }
+    ]
+}

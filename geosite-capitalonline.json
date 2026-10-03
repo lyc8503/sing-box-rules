@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "capitalonline.net",
+                "mirrors.yun-idc.com"
+            ],
+            "domain_suffix": [
+                ".capitalonline.net",
+                ".mirrors.yun-idc.com"
+            ]
+        }
+    ]
+}

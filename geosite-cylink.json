@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cylink.pro",
+                "cylink0122.icu"
+            ],
+            "domain_suffix": [
+                ".cylink.pro",
+                ".cylink0122.icu"
+            ]
+        }
+    ]
+}

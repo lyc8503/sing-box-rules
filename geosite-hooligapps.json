@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cuntempire.com",
+                "cuntwars.com",
+                "dirtyleague.com",
+                "faptitans.com",
+                "hooligapps.com",
+                "slotbitches.com",
+                "smutstone.com",
+                "townofsins.com"
+            ],
+            "domain_suffix": [
+                ".cuntempire.com",
+                ".cuntwars.com",
+                ".dirtyleague.com",
+                ".faptitans.com",
+                ".hooligapps.com",
+                ".slotbitches.com",
+                ".smutstone.com",
+                ".townofsins.com"
+            ]
+        }
+    ]
+}

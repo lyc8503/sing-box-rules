@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "adblockcdn.com",
+                "getadblock.com"
+            ],
+            "domain_suffix": [
+                ".adblockcdn.com",
+                ".getadblock.com"
+            ]
+        }
+    ]
+}

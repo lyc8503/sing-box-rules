@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "certum.pl",
+                "ocsp-certum.com",
+                "ocsp-responder.com"
+            ],
+            "domain_suffix": [
+                ".certum.pl",
+                ".ocsp-certum.com",
+                ".ocsp-responder.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "focuschina.com",
+                "made-in-china.com",
+                "micstatic.com",
+                "trademessenger.com",
+                "vemic.com"
+            ],
+            "domain_suffix": [
+                ".focuschina.com",
+                ".made-in-china.com",
+                ".micstatic.com",
+                ".trademessenger.com",
+                ".vemic.com"
+            ]
+        }
+    ]
+}

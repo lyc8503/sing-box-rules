@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hkgolden.com",
+                "hkgolden.media"
+            ],
+            "domain_suffix": [
+                ".hkgolden.com",
+                ".hkgolden.media"
+            ]
+        }
+    ]
+}
