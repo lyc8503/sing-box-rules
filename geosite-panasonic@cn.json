@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "panasonic.cn",
+            "domain_suffix": ".panasonic.cn"
+        }
+    ]
+}

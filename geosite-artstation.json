@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "artstation.com",
+                "artstationmedia.com"
+            ],
+            "domain_suffix": [
+                ".artstation.com",
+                ".artstationmedia.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "comsenz.com",
+                "discuz.net",
+                "discuz.org"
+            ],
+            "domain_suffix": [
+                ".comsenz.com",
+                ".discuz.net",
+                ".discuz.org"
+            ]
+        }
+    ]
+}

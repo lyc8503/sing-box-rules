@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "predb.me",
+                "scenesource.me",
+                "scnsrc.me"
+            ],
+            "domain_suffix": [
+                ".predb.me",
+                ".scenesource.me",
+                ".scnsrc.me"
+            ]
+        }
+    ]
+}

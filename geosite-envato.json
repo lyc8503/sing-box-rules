@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "envato-static.com",
+                "envato.com",
+                "envatousercontent.com",
+                "themeforest.net"
+            ],
+            "domain_suffix": [
+                ".envato-static.com",
+                ".envato.com",
+                ".envatousercontent.com",
+                ".themeforest.net"
+            ]
+        }
+    ]
+}

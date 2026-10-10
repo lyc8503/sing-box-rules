@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nexon.com",
+                "nexon.io",
+                "nexon.net",
+                "nexon.co.jp",
+                "nexoncdn.co.kr",
+                "nexongames.co.kr"
+            ],
+            "domain_suffix": [
+                ".nexon.com",
+                ".nexon.io",
+                ".nexon.net",
+                ".nexon.co.jp",
+                ".nexoncdn.co.kr",
+                ".nexongames.co.kr"
+            ]
+        }
+    ]
+}

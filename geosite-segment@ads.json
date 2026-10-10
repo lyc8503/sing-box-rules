@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "segment.com",
+                "segment.io",
+                "segmenthub.com",
+                "segmentify.com"
+            ],
+            "domain_suffix": [
+                ".segment.com",
+                ".segment.io",
+                ".segmenthub.com",
+                ".segmentify.com"
+            ]
+        }
+    ]
+}

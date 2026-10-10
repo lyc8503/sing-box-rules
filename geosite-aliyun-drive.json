@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "alicloudccp.com",
+                "alipan.com",
+                "aliyundrive.cloud",
+                "aliyundrive.com",
+                "aliyundrive.net",
+                "yunpan.aliyun.com"
+            ],
+            "domain_suffix": [
+                ".alicloudccp.com",
+                ".alipan.com",
+                ".aliyundrive.cloud",
+                ".aliyundrive.com",
+                ".aliyundrive.net",
+                ".yunpan.aliyun.com"
+            ]
+        }
+    ]
+}

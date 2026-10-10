@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nicegram.app",
+                "nicegram.cloud",
+                "adsgram.ai"
+            ],
+            "domain_suffix": [
+                ".nicegram.app",
+                ".nicegram.cloud",
+                ".adsgram.ai"
+            ]
+        }
+    ]
+}

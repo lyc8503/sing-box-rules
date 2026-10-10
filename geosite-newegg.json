@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "newegg.com",
+                "neweggimages.com"
+            ],
+            "domain_suffix": [
+                ".newegg.com",
+                ".neweggimages.com"
+            ]
+        }
+    ]
+}

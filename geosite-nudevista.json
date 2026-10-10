@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nudevista.com",
+                "nudevista.es",
+                "nudevista.net",
+                "nudevista.vip"
+            ],
+            "domain_suffix": [
+                ".nudevista.com",
+                ".nudevista.es",
+                ".nudevista.net",
+                ".nudevista.vip"
+            ]
+        }
+    ]
+}

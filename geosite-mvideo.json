@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mvideo.edna.io",
+                "acmvid.com",
+                "mvideo.ru"
+            ],
+            "domain_suffix": [
+                ".acmvid.com",
+                ".mvideo.ru"
+            ]
+        }
+    ]
+}

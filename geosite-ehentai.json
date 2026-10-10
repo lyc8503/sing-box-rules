@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "e-hentai.org",
+                "ehgt.org",
+                "ehtracker.org",
+                "ehwiki.org",
+                "exhentai.org",
+                "hath.network",
+                "hentaiathome.net",
+                "hentaiverse.org"
+            ],
+            "domain_suffix": [
+                ".e-hentai.org",
+                ".ehgt.org",
+                ".ehtracker.org",
+                ".ehwiki.org",
+                ".exhentai.org",
+                ".hath.network",
+                ".hentaiathome.net",
+                ".hentaiverse.org"
+            ]
+        }
+    ]
+}

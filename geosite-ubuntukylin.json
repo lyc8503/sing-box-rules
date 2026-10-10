@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "openkylin.top",
+                "ubuntukylin.com"
+            ],
+            "domain_suffix": [
+                ".openkylin.top",
+                ".ubuntukylin.com"
+            ]
+        }
+    ]
+}

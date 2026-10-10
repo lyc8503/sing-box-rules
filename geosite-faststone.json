@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "faststone.org",
+            "domain_suffix": ".faststone.org"
+        }
+    ]
+}

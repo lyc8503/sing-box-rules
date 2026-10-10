@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bandcamp.com",
+                "bcbits.com"
+            ],
+            "domain_suffix": [
+                ".bandcamp.com",
+                ".bcbits.com"
+            ]
+        }
+    ]
+}

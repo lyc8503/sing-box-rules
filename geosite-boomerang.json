@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "boomerang.com",
+                "wbdnbo.net"
+            ],
+            "domain_suffix": [
+                ".boomerang.com",
+                ".wbdnbo.net"
+            ]
+        }
+    ]
+}

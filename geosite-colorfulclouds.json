@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "caiyunai.com",
+                "caiyunapp.com",
+                "caiyuncdn.com",
+                "colorfulclouds.com",
+                "colorfulclouds.net",
+                "xiaomengai.com"
+            ],
+            "domain_suffix": [
+                ".caiyunai.com",
+                ".caiyunapp.com",
+                ".caiyuncdn.com",
+                ".colorfulclouds.com",
+                ".colorfulclouds.net",
+                ".xiaomengai.com"
+            ]
+        }
+    ]
+}
