@@ -1,0 +1,28 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "openmaps.org",
+                "openstreetmap.com",
+                "openstreetmap.net",
+                "openstreetmap.org",
+                "openstreetmaps.org",
+                "osm.org",
+                "osmfoundation.org",
+                "stateofthemap.com",
+                "stateofthemap.org"
+            ],
+            "domain_suffix": [
+                ".openmaps.org",
+                ".openstreetmap.com",
+                ".openstreetmap.net",
+                ".openstreetmap.org",
+                ".openstreetmaps.org",
+                ".osm.org",
+                ".osmfoundation.org",
+                ".stateofthemap.com",
+                ".stateofthemap.org"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cctalk.com",
+                "hjapi.com",
+                "hjfile.cn",
+                "hujiang.com",
+                "yeshj.com"
+            ],
+            "domain_suffix": [
+                ".cctalk.com",
+                ".hjapi.com",
+                ".hjfile.cn",
+                ".hujiang.com",
+                ".yeshj.com"
+            ]
+        }
+    ]
+}

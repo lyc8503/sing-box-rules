@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ehaier.com",
+                "haier.com",
+                "haier.net",
+                "haiersmarthomes.com"
+            ],
+            "domain_suffix": [
+                ".ehaier.com",
+                ".haier.com",
+                ".haier.net",
+                ".haiersmarthomes.com"
+            ]
+        }
+    ]
+}

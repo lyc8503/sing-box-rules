@@ -1,0 +1,30 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "htx.com",
+                "hbabit.com",
+                "hbfile.net",
+                "huobi.com",
+                "huobi.me",
+                "huobi.pro",
+                "huobi.sc",
+                "huobiasia.vip",
+                "huobigroup.com",
+                "huobitoken.com"
+            ],
+            "domain_suffix": [
+                ".htx.com",
+                ".hbabit.com",
+                ".hbfile.net",
+                ".huobi.com",
+                ".huobi.me",
+                ".huobi.pro",
+                ".huobi.sc",
+                ".huobiasia.vip",
+                ".huobigroup.com",
+                ".huobitoken.com"
+            ]
+        }
+    ]
+}

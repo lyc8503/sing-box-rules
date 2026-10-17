@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "thetype.com",
+                "typeisbeautiful.com",
+                "thetype.cloud"
+            ],
+            "domain_suffix": [
+                ".thetype.com",
+                ".typeisbeautiful.com",
+                ".thetype.cloud"
+            ]
+        }
+    ]
+}

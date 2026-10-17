@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "razerapi.com",
+                "razersynapse.com",
+                "razerzone.com"
+            ],
+            "domain_suffix": [
+                ".razerapi.com",
+                ".razersynapse.com",
+                ".razerzone.com"
+            ]
+        }
+    ]
+}

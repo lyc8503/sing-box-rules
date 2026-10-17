@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "paofu.cloud",
+                "paofuyun.me"
+            ],
+            "domain_suffix": [
+                ".paofu.cloud",
+                ".paofuyun.me"
+            ]
+        }
+    ]
+}

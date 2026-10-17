@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kkmh.com",
+                "kuaikanmanhua.com",
+                "v3mh.com"
+            ],
+            "domain_suffix": [
+                ".kkmh.com",
+                ".kuaikanmanhua.com",
+                ".v3mh.com"
+            ]
+        }
+    ]
+}

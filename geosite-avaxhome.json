@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "avxhm.se",
+                "avh.world",
+                "avxde.org",
+                "avxhm.is",
+                "avxlive.icu",
+                "xsava.xyz",
+                "zavat.pw"
+            ],
+            "domain_suffix": [
+                ".avxhm.se",
+                ".avh.world",
+                ".avxde.org",
+                ".avxhm.is",
+                ".avxlive.icu",
+                ".xsava.xyz",
+                ".zavat.pw"
+            ]
+        }
+    ]
+}

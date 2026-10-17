@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "gepush.com",
+                "getui.cn",
+                "getui.com",
+                "getui.net",
+                "igehuo.com",
+                "igetui.com",
+                "igexin.com"
+            ],
+            "domain_suffix": [
+                ".gepush.com",
+                ".getui.cn",
+                ".getui.com",
+                ".getui.net",
+                ".igehuo.com",
+                ".igetui.com",
+                ".igexin.com"
+            ]
+        }
+    ]
+}

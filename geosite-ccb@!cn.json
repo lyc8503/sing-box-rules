@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ccbintl.com.hk",
+                "ccbseoul.com"
+            ],
+            "domain_suffix": [
+                ".ccbintl.com.hk",
+                ".ccbseoul.com"
+            ]
+        }
+    ]
+}
