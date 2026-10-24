@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "shopee.cn",
+                "shopeesz.com"
+            ],
+            "domain_suffix": [
+                ".shopee.cn",
+                ".shopeesz.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "pstorage.space",
+            "domain_suffix": ".pstorage.space"
+        }
+    ]
+}

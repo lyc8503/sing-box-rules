@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "asproex.com",
+                "asproexapi.com"
+            ],
+            "domain_suffix": [
+                ".asproex.com",
+                ".asproexapi.com"
+            ]
+        }
+    ]
+}

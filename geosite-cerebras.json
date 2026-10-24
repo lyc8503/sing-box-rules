@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "cerebras.ai",
+            "domain_suffix": ".cerebras.ai"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nist.gov",
+                "time.gov"
+            ],
+            "domain_suffix": [
+                ".nist.gov",
+                ".time.gov"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "meduza.io",
+                "meduza-flutter.firebaseapp.com"
+            ],
+            "domain_suffix": [
+                ".meduza.io",
+                ".meduza-flutter.firebaseapp.com"
+            ]
+        }
+    ]
+}

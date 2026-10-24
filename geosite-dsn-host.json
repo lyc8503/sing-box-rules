@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ds-servers.com",
+                "dsn.host",
+                "dsncdn.net"
+            ],
+            "domain_suffix": [
+                ".ds-servers.com",
+                ".dsn.host",
+                ".dsncdn.net"
+            ]
+        }
+    ]
+}

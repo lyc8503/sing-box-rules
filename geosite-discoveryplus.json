@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "disco-api.com",
+                "discoveryplus.com",
+                "content-ause1-ur-discovery1.uplynk.com"
+            ],
+            "domain_suffix": [
+                ".disco-api.com",
+                ".discoveryplus.com",
+                ".content-ause1-ur-discovery1.uplynk.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hm.com",
+                "hm.com.cn"
+            ],
+            "domain_suffix": [
+                ".hm.com",
+                ".hm.com.cn"
+            ]
+        }
+    ]
+}

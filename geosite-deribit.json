@@ -1,0 +1,11 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "deribit.cdn.prismic.io",
+                "deribit.com"
+            ],
+            "domain_suffix": ".deribit.com"
+        }
+    ]
+}

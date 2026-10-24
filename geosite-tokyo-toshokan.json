@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "tokyo-tosho.net",
+                "tokyotosho.info",
+                "tokyotosho.se"
+            ],
+            "domain_suffix": [
+                ".tokyo-tosho.net",
+                ".tokyotosho.info",
+                ".tokyotosho.se"
+            ]
+        }
+    ]
+}

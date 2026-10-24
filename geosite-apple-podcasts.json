@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "applepodcasts.com",
+                "podcasts.apple.com",
+                "amp-api.podcasts.apple.com"
+            ],
+            "domain_suffix": [
+                ".applepodcasts.com",
+                ".podcasts.apple.com"
+            ]
+        }
+    ]
+}

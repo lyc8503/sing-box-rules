@@ -1,0 +1,38 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "imageworks.com",
+                "motionpictureser.com",
+                "playshow.io",
+                "playshowtv.com",
+                "sonyclassics.com",
+                "sonypictures.com",
+                "sonypicturesanimation.com",
+                "sonypicturesmuseum.com",
+                "sonypicturesstudios.com",
+                "sonypicturestelevision.com",
+                "sonypicturestelevisiongames.com",
+                "wheelpop.com",
+                "wwtbam.com",
+                "yourfantasybeginsnow.com"
+            ],
+            "domain_suffix": [
+                ".imageworks.com",
+                ".motionpictureser.com",
+                ".playshow.io",
+                ".playshowtv.com",
+                ".sonyclassics.com",
+                ".sonypictures.com",
+                ".sonypicturesanimation.com",
+                ".sonypicturesmuseum.com",
+                ".sonypicturesstudios.com",
+                ".sonypicturestelevision.com",
+                ".sonypicturestelevisiongames.com",
+                ".wheelpop.com",
+                ".wwtbam.com",
+                ".yourfantasybeginsnow.com"
+            ]
+        }
+    ]
+}

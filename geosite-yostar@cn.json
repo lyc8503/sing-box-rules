@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "yostar.cn",
+            "domain_suffix": ".yostar.cn"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "kaggle.com",
+                "kaggle.io",
+                "kaggle.net",
+                "kaggleusercontent.com"
+            ],
+            "domain_suffix": [
+                ".kaggle.com",
+                ".kaggle.io",
+                ".kaggle.net",
+                ".kaggleusercontent.com"
+            ]
+        }
+    ]
+}

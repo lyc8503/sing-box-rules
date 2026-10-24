@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "sourceforge.com",
+                "sourceforge.net",
+                "sf.net",
+                "fsdn.com"
+            ],
+            "domain_suffix": [
+                ".sourceforge.com",
+                ".sourceforge.net",
+                ".sf.net",
+                ".fsdn.com"
+            ]
+        }
+    ]
+}

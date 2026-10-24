@@ -1,0 +1,28 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ixbt.com",
+                "ixbt.games",
+                "ixbt.pro",
+                "ixbt.ru",
+                "ixbt.market",
+                "ixbt.media",
+                "ixbt.shop",
+                "ixbt.site",
+                "ixbt.video"
+            ],
+            "domain_suffix": [
+                ".ixbt.com",
+                ".ixbt.games",
+                ".ixbt.pro",
+                ".ixbt.ru",
+                ".ixbt.market",
+                ".ixbt.media",
+                ".ixbt.shop",
+                ".ixbt.site",
+                ".ixbt.video"
+            ]
+        }
+    ]
+}

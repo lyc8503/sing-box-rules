@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "amazon-adsystem.com",
+                "serving-sys.com"
+            ],
+            "domain_suffix": [
+                ".amazon-adsystem.com",
+                ".serving-sys.com"
+            ]
+        }
+    ]
+}

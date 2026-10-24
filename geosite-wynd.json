@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "wyndlabs.ai",
+                "wynd.network"
+            ],
+            "domain_suffix": [
+                ".wyndlabs.ai",
+                ".wynd.network"
+            ]
+        }
+    ]
+}

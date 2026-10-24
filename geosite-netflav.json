@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "netflav.com",
+                "netflav1.com",
+                "netflav5.com"
+            ],
+            "domain_suffix": [
+                ".netflav.com",
+                ".netflav1.com",
+                ".netflav5.com"
+            ]
+        }
+    ]
+}

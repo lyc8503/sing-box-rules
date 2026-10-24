@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ivwen.com",
+                "meipian.cn",
+                "meipian.me"
+            ],
+            "domain_suffix": [
+                ".ivwen.com",
+                ".meipian.cn",
+                ".meipian.me"
+            ]
+        }
+    ]
+}

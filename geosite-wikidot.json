@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "wdfiles.com",
+                "wikidot.com"
+            ],
+            "domain_suffix": [
+                ".wdfiles.com",
+                ".wikidot.com"
+            ]
+        }
+    ]
+}
