@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "fclog.baidu.com",
+                "pimlog.baidu.com"
+            ],
+            "domain_suffix": [
+                ".fclog.baidu.com",
+                ".pimlog.baidu.com"
+            ]
+        }
+    ]
+}

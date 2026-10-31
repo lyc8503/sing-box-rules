@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "imageshack.com",
+                "imageshack.us"
+            ],
+            "domain_suffix": [
+                ".imageshack.com",
+                ".imageshack.us"
+            ]
+        }
+    ]
+}

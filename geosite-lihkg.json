@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "lih.kg",
+                "lihkg.com"
+            ],
+            "domain_suffix": [
+                ".lih.kg",
+                ".lihkg.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hihonor.cn",
+                "hihonor.com",
+                "hihonorcdn.com",
+                "hihonorcloud.com",
+                "honor.cn",
+                "honor.com",
+                "honorfile.com",
+                "honor.com.cn"
+            ],
+            "domain_suffix": [
+                ".hihonor.cn",
+                ".hihonor.com",
+                ".hihonorcdn.com",
+                ".hihonorcloud.com",
+                ".honor.cn",
+                ".honor.com",
+                ".honorfile.com",
+                ".honor.com.cn"
+            ]
+        }
+    ]
+}

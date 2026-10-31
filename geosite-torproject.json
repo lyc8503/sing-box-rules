@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "torproject.org",
+            "domain_suffix": ".torproject.org"
+        }
+    ]
+}

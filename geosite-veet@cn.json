@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "veet.cn",
+                "veet.com.cn"
+            ],
+            "domain_suffix": [
+                ".veet.cn",
+                ".veet.com.cn"
+            ]
+        }
+    ]
+}

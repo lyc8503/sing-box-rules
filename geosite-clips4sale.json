@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "c4slive.com",
+                "clips4sale.com",
+                "videos4sale.com"
+            ],
+            "domain_suffix": [
+                ".c4slive.com",
+                ".clips4sale.com",
+                ".videos4sale.com"
+            ]
+        }
+    ]
+}

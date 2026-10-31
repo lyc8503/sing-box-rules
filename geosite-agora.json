@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "agora.io",
+                "agoraio.cn",
+                "agoralab.co",
+                "easemob.com",
+                "shengwang.cn"
+            ],
+            "domain_suffix": [
+                ".agora.io",
+                ".agoraio.cn",
+                ".agoralab.co",
+                ".easemob.com",
+                ".shengwang.cn"
+            ]
+        }
+    ]
+}

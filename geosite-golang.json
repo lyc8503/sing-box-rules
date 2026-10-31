@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "go-lang.com",
+                "go-lang.net",
+                "go-lang.org",
+                "go.dev",
+                "godoc.org",
+                "golang.com",
+                "golang.net",
+                "golang.org"
+            ],
+            "domain_suffix": [
+                ".go-lang.com",
+                ".go-lang.net",
+                ".go-lang.org",
+                ".go.dev",
+                ".godoc.org",
+                ".golang.com",
+                ".golang.net",
+                ".golang.org"
+            ]
+        }
+    ]
+}

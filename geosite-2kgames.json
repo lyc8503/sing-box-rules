@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "2k.com",
+                "2kcoretech.online",
+                "2kct.onl",
+                "2kgames.com",
+                "2ksports.com",
+                "2kweb.online"
+            ],
+            "domain_suffix": [
+                ".2k.com",
+                ".2kcoretech.online",
+                ".2kct.onl",
+                ".2kgames.com",
+                ".2ksports.com",
+                ".2kweb.online"
+            ]
+        }
+    ]
+}

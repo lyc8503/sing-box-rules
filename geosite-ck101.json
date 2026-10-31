@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ck101.com",
+                "ckcdn.com",
+                "ckck.fun"
+            ],
+            "domain_suffix": [
+                ".ck101.com",
+                ".ckcdn.com",
+                ".ckck.fun"
+            ]
+        }
+    ]
+}

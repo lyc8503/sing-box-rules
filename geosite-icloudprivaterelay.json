@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mask-api.icloud.com",
+                "mask-h2.icloud.com",
+                "mask.icloud.com"
+            ],
+            "domain_suffix": [
+                ".mask-api.icloud.com",
+                ".mask-h2.icloud.com",
+                ".mask.icloud.com"
+            ]
+        }
+    ]
+}

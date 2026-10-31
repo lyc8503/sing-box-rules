@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "imgix.com",
+                "imgix.net"
+            ],
+            "domain_suffix": [
+                ".imgix.com",
+                ".imgix.net"
+            ]
+        }
+    ]
+}

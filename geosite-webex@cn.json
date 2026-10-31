@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "webex.com.cn",
+            "domain_suffix": ".webex.com.cn"
+        }
+    ]
+}

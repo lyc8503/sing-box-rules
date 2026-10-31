@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "taptap.io",
+            "domain_suffix": ".taptap.io"
+        }
+    ]
+}

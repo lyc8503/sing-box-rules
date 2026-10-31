@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mongodb.com",
+                "mongodb.org"
+            ],
+            "domain_suffix": [
+                ".mongodb.com",
+                ".mongodb.org"
+            ]
+        }
+    ]
+}

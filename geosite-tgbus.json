@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "tgbus.com",
+            "domain_suffix": ".tgbus.com"
+        }
+    ]
+}

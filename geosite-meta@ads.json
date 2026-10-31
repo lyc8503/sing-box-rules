@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "graph.instagram.com",
+                "graph-fallback.instagram.com",
+                "analytics.facebook.com",
+                "facebookads.com",
+                "pixel.facebook.com"
+            ],
+            "domain_suffix": [
+                ".graph.instagram.com",
+                ".graph-fallback.instagram.com",
+                ".analytics.facebook.com",
+                ".facebookads.com",
+                ".pixel.facebook.com"
+            ]
+        }
+    ]
+}

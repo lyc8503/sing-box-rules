@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "analytics.tiktok.com",
+                "disney.my.sentry.io",
+                "adeventtracker.spotify.com",
+                "adstudio-assets.scdn.co",
+                "bloodhound.spotify.com",
+                "insights-collector.gog.com",
+                "log-upload-os.hoyoverse.com",
+                "ads-pixiv.net",
+                "ads.youtube.com"
+            ],
+            "domain_suffix": [
+                ".analytics.tiktok.com",
+                ".insights-collector.gog.com",
+                ".log-upload-os.hoyoverse.com",
+                ".ads-pixiv.net",
+                ".ads.youtube.com"
+            ]
+        }
+    ]
+}

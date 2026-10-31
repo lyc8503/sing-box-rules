@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "akstat.io",
+                "cloudflareinsights.com",
+                "cloudflareinsights-cn.com"
+            ],
+            "domain_suffix": [
+                ".akstat.io",
+                ".cloudflareinsights.com",
+                ".cloudflareinsights-cn.com"
+            ]
+        }
+    ]
+}

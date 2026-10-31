@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "4gtv.tv",
+                "ftv.com.tw",
+                "ftvnews.com.tw"
+            ],
+            "domain_suffix": [
+                ".4gtv.tv",
+                ".ftv.com.tw",
+                ".ftvnews.com.tw"
+            ]
+        }
+    ]
+}

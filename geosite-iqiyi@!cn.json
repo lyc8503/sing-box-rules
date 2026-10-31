@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "iq.com",
+            "domain_suffix": ".iq.com"
+        }
+    ]
+}
