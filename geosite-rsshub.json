@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "rsshub.app",
+            "domain_suffix": ".rsshub.app"
+        }
+    ]
+}

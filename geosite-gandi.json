@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "gandi.net",
+            "domain_suffix": ".gandi.net"
+        }
+    ]
+}

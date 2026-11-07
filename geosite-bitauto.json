@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bitauto.com",
+                "bitautoimg.com",
+                "cheyisou.com",
+                "yiche.com",
+                "yccdn.com"
+            ],
+            "domain_suffix": [
+                ".bitauto.com",
+                ".bitautoimg.com",
+                ".cheyisou.com",
+                ".yiche.com",
+                ".yccdn.com"
+            ]
+        }
+    ]
+}

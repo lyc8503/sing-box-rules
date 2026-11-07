@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "poi.icu",
+                "poi6.net",
+                "poihub.com",
+                "project-poi.com"
+            ],
+            "domain_suffix": [
+                ".poi.icu",
+                ".poi6.net",
+                ".poihub.com",
+                ".project-poi.com"
+            ]
+        }
+    ]
+}

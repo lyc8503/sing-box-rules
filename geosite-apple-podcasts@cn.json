@@ -1,0 +1,10 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "amp-api.podcasts.apple.com",
+                "podcasts.apple.com"
+            ]
+        }
+    ]
+}

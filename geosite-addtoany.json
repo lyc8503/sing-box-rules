@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "addtoany.com",
+            "domain_suffix": ".addtoany.com"
+        }
+    ]
+}

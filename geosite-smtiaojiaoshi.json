@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "jhxl.org",
+                "xn--sgt856gbjl.cc"
+            ],
+            "domain_suffix": [
+                ".jhxl.org",
+                ".xn--sgt856gbjl.cc"
+            ]
+        }
+    ]
+}

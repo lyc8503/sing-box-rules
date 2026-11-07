@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "jd.co.th",
+                "jd.hk",
+                "jd.id",
+                "jd.ru"
+            ],
+            "domain_suffix": [
+                ".jd.co.th",
+                ".jd.hk",
+                ".jd.id",
+                ".jd.ru"
+            ]
+        }
+    ]
+}

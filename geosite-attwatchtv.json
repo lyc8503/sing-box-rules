@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "att.tv",
+                "atttvnow.com",
+                "attwatchtv.com",
+                "dtvce.com",
+                "nettyinternet.com"
+            ],
+            "domain_suffix": [
+                ".att.tv",
+                ".atttvnow.com",
+                ".attwatchtv.com",
+                ".dtvce.com",
+                ".nettyinternet.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ligadobra.ru",
+                "ligastavok-csr.ru",
+                "ligastavok.ru",
+                "sozvezdie-dobra.ru"
+            ],
+            "domain_suffix": [
+                ".ligadobra.ru",
+                ".ligastavok-csr.ru",
+                ".ligastavok.ru",
+                ".sozvezdie-dobra.ru"
+            ]
+        }
+    ]
+}

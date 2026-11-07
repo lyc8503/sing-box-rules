@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "vultr.com",
+            "domain_suffix": ".vultr.com"
+        }
+    ]
+}

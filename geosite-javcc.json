@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "javcc.cc",
+                "javcc.com"
+            ],
+            "domain_suffix": [
+                ".javcc.cc",
+                ".javcc.com"
+            ]
+        }
+    ]
+}

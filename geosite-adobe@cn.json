@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "adobedc.cn",
+            "domain_suffix": ".adobedc.cn"
+        }
+    ]
+}

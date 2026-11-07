@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "lagou.com",
+                "lgstatic.com"
+            ],
+            "domain_suffix": [
+                ".lagou.com",
+                ".lgstatic.com"
+            ]
+        }
+    ]
+}

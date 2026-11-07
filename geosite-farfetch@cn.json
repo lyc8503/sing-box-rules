@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "farfetch.cn",
+                "farfetch.com.cn",
+                "farfetch.net.cn"
+            ],
+            "domain_suffix": [
+                ".farfetch.cn",
+                ".farfetch.com.cn",
+                ".farfetch.net.cn"
+            ]
+        }
+    ]
+}

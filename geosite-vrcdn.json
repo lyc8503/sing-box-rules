@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "vrcdn.cloud",
+                "vrcdn.live",
+                "vrcdn.video"
+            ],
+            "domain_suffix": [
+                ".vrcdn.cloud",
+                ".vrcdn.live",
+                ".vrcdn.video"
+            ]
+        }
+    ]
+}

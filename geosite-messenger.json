@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "fbmessenger.com",
+                "m.me",
+                "messenger.com",
+                "nbabot.net"
+            ],
+            "domain_suffix": [
+                ".fbmessenger.com",
+                ".m.me",
+                ".messenger.com",
+                ".nbabot.net"
+            ]
+        }
+    ]
+}

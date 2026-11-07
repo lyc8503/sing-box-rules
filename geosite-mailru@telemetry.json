@@ -1,0 +1,27 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "apptracer.ru",
+                "metrics.viqeo.tv",
+                "sentry-ng.g.smailru.net",
+                "srch-telemeter10.g.smailru.net",
+                "sentry.dev-my.com",
+                "sentry.dev-my.games",
+                "sentry.rustore.ru",
+                "sentry.viqeo.tv",
+                "stats.dahlmessenger.com",
+                "stats.dev.telega.info",
+                "stats.rustore.ru",
+                "stats.telega.info",
+                "stats.vk-portal.net",
+                "log.dzen.ru"
+            ],
+            "domain_suffix": [
+                ".apptracer.ru",
+                ".metrics.viqeo.tv",
+                ".log.dzen.ru"
+            ]
+        }
+    ]
+}

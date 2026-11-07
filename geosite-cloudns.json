@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cloudns.nz",
+                "cloudns.ph"
+            ],
+            "domain_suffix": [
+                ".cloudns.nz",
+                ".cloudns.ph"
+            ]
+        }
+    ]
+}

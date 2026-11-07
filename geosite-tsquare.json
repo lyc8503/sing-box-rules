@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "tsquare.tv",
+            "domain_suffix": ".tsquare.tv"
+        }
+    ]
+}

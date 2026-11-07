@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "chinaz.com",
+                "chinaz.net"
+            ],
+            "domain_suffix": [
+                ".chinaz.com",
+                ".chinaz.net"
+            ]
+        }
+    ]
+}

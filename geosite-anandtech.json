@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "anandtech.com",
+            "domain_suffix": ".anandtech.com"
+        }
+    ]
+}

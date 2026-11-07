@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "tesla.cn",
+                "tesla.com.cn",
+                "teslamotors.cn",
+                "teslamotors.com.cn"
+            ],
+            "domain_suffix": [
+                ".tesla.cn",
+                ".tesla.com.cn",
+                ".teslamotors.cn",
+                ".teslamotors.com.cn"
+            ]
+        }
+    ]
+}
