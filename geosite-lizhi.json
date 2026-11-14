@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "gzlzfm.com",
+                "lizhi.fm",
+                "lizhifm.com",
+                "lizhiinc.com",
+                "lz310.com",
+                "lzpipi.com"
+            ],
+            "domain_suffix": [
+                ".gzlzfm.com",
+                ".lizhi.fm",
+                ".lizhifm.com",
+                ".lizhiinc.com",
+                ".lz310.com",
+                ".lzpipi.com"
+            ]
+        }
+    ]
+}

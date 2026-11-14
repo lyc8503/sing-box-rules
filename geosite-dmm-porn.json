@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dmmrex.com",
+                "dmm.co.jp"
+            ],
+            "domain_suffix": [
+                ".dmmrex.com",
+                ".dmm.co.jp"
+            ]
+        }
+    ]
+}

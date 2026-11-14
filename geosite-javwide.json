@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "javwide.com",
+                "javwide.tv"
+            ],
+            "domain_suffix": [
+                ".javwide.com",
+                ".javwide.tv"
+            ]
+        }
+    ]
+}

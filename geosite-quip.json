@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "quip-cdn.com",
+                "quip.com",
+                "quipelements.com"
+            ],
+            "domain_suffix": [
+                ".quip-cdn.com",
+                ".quip.com",
+                ".quipelements.com"
+            ]
+        }
+    ]
+}

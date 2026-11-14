@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "natgeomaps.com",
+                "nationalgeographic.com",
+                "nationalgeographicpartners.com",
+                "ngeo.com"
+            ],
+            "domain_suffix": [
+                ".natgeomaps.com",
+                ".nationalgeographic.com",
+                ".nationalgeographicpartners.com",
+                ".ngeo.com"
+            ]
+        }
+    ]
+}

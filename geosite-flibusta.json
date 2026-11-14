@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "flibusta.is",
+                "flisland.net"
+            ],
+            "domain_suffix": [
+                ".flibusta.is",
+                ".flisland.net"
+            ]
+        }
+    ]
+}

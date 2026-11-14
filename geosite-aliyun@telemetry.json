@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "adash-emas.cn-hangzhou.aliyuncs.com",
+                "adash.man.aliyuncs.com"
+            ],
+            "domain_suffix": [
+                ".adash-emas.cn-hangzhou.aliyuncs.com",
+                ".adash.man.aliyuncs.com"
+            ]
+        }
+    ]
+}

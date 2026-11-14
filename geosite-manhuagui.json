@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "manhuagui.com",
+                "mhgui.com"
+            ],
+            "domain_suffix": [
+                ".manhuagui.com",
+                ".mhgui.com"
+            ]
+        }
+    ]
+}

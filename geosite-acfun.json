@@ -1,0 +1,25 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ac.fun",
+                "acfun.cn",
+                "acfun.net",
+                "acfunchina.cn",
+                "acfunchina.com",
+                "acfunchina.net",
+                "aixifan.com",
+                "apilog-web.acfun.cn"
+            ],
+            "domain_suffix": [
+                ".ac.fun",
+                ".acfun.cn",
+                ".acfun.net",
+                ".acfunchina.cn",
+                ".acfunchina.com",
+                ".acfunchina.net",
+                ".aixifan.com"
+            ]
+        }
+    ]
+}

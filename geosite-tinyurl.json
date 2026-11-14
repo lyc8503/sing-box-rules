@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "tinyurl.com",
+            "domain_suffix": ".tinyurl.com"
+        }
+    ]
+}

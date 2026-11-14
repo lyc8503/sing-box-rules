@@ -1,0 +1,10 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "sentry.mindbox.ru",
+                "sentry.popmechanic.ru"
+            ]
+        }
+    ]
+}

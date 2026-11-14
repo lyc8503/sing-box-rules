@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "log.dzen.ru",
+            "domain_suffix": ".log.dzen.ru"
+        }
+    ]
+}

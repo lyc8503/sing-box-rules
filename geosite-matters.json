@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "matters.news",
+                "matters.one",
+                "matters.town",
+                "mattersprotocol.io"
+            ],
+            "domain_suffix": [
+                ".matters.news",
+                ".matters.one",
+                ".matters.town",
+                ".mattersprotocol.io"
+            ]
+        }
+    ]
+}

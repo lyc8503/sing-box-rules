@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "log-upload.mihoyo.com",
+                "insights-collector.gog.com",
+                "log-upload-os.hoyoverse.com"
+            ],
+            "domain_suffix": [
+                ".log-upload.mihoyo.com",
+                ".insights-collector.gog.com",
+                ".log-upload-os.hoyoverse.com"
+            ]
+        }
+    ]
+}

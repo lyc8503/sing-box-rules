@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "bitflyer.com",
+                "bitflyer.jp"
+            ],
+            "domain_suffix": [
+                ".bitflyer.com",
+                ".bitflyer.jp"
+            ]
+        }
+    ]
+}

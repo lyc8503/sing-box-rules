@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "feedly.com",
+            "domain_suffix": ".feedly.com"
+        }
+    ]
+}

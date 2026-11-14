@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "librewolf.dev",
+                "librewolf.net"
+            ],
+            "domain_suffix": [
+                ".librewolf.dev",
+                ".librewolf.net"
+            ]
+        }
+    ]
+}
