@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "zeplin.dev",
+                "zeplin.io"
+            ],
+            "domain_suffix": [
+                ".zeplin.dev",
+                ".zeplin.io"
+            ]
+        }
+    ]
+}

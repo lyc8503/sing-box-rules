@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "gitbook.com",
+                "gitbook.io"
+            ],
+            "domain_suffix": [
+                ".gitbook.com",
+                ".gitbook.io"
+            ]
+        }
+    ]
+}

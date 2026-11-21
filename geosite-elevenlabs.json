@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "elevenlabs.com",
+                "elevenlabs.io",
+                "elevenlabsusercontent.com"
+            ],
+            "domain_suffix": [
+                ".elevenlabs.com",
+                ".elevenlabs.io",
+                ".elevenlabsusercontent.com"
+            ]
+        }
+    ]
+}

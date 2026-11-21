@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "nordcdn.com",
+                "nordvpn.com"
+            ],
+            "domain_suffix": [
+                ".nordcdn.com",
+                ".nordvpn.com"
+            ]
+        }
+    ]
+}

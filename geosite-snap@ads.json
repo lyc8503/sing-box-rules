@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "snapads.com",
+            "domain_suffix": ".snapads.com"
+        }
+    ]
+}

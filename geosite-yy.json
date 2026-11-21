@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "yy.com",
+                "yyeshop.cn",
+                "yystatic.com",
+                "duowan.com",
+                "dwstatic.com"
+            ],
+            "domain_suffix": [
+                ".yy.com",
+                ".yyeshop.cn",
+                ".yystatic.com",
+                ".duowan.com",
+                ".dwstatic.com"
+            ]
+        }
+    ]
+}

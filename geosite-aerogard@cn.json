@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "aerogard.com.cn",
+            "domain_suffix": ".aerogard.com.cn"
+        }
+    ]
+}

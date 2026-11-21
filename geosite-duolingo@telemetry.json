@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "analytics.vpc.duolingo.com",
+                "metrics.duolingo.com"
+            ],
+            "domain_suffix": [
+                ".analytics.vpc.duolingo.com",
+                ".metrics.duolingo.com"
+            ]
+        }
+    ]
+}

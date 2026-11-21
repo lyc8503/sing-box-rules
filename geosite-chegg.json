@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "chegg.com",
+                "cheggcdn.com"
+            ],
+            "domain_suffix": [
+                ".chegg.com",
+                ".cheggcdn.com"
+            ]
+        }
+    ]
+}

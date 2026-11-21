@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "xda-cdn.com",
+                "xda-developers.com",
+                "xdaforums.com",
+                "xdaimages.com"
+            ],
+            "domain_suffix": [
+                ".xda-cdn.com",
+                ".xda-developers.com",
+                ".xdaforums.com",
+                ".xdaimages.com"
+            ]
+        }
+    ]
+}

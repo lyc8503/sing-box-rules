@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ptt.cc",
+                "ptt2.cc",
+                "ptt3.cc"
+            ],
+            "domain_suffix": [
+                ".ptt.cc",
+                ".ptt2.cc",
+                ".ptt3.cc"
+            ]
+        }
+    ]
+}

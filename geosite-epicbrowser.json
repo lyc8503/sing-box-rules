@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "epicbrowser.com",
+            "domain_suffix": ".epicbrowser.com"
+        }
+    ]
+}

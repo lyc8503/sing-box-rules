@@ -1,0 +1,27 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "azbukainterneta.ru",
+                "rostelecom.ru",
+                "rt.ru",
+                "restream-media.net",
+                "restream.ru",
+                "more.tv",
+                "wink.am",
+                "wink.ru",
+                "sentry.iptv.rt.ru"
+            ],
+            "domain_suffix": [
+                ".azbukainterneta.ru",
+                ".rostelecom.ru",
+                ".rt.ru",
+                ".restream-media.net",
+                ".restream.ru",
+                ".more.tv",
+                ".wink.am",
+                ".wink.ru"
+            ]
+        }
+    ]
+}

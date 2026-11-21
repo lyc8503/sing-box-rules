@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "adobestats.io",
+            "domain_suffix": ".adobestats.io"
+        }
+    ]
+}

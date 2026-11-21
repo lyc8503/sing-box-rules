@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "akstat.io",
+            "domain_suffix": ".akstat.io"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "hpstore.cn",
+            "domain_suffix": ".hpstore.cn"
+        }
+    ]
+}

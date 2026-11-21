@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "ads.youtube.com",
+            "domain_suffix": ".ads.youtube.com"
+        }
+    ]
+}

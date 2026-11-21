@@ -1,0 +1,11 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "hb.imgix.net",
+                "humblebundle.com"
+            ],
+            "domain_suffix": ".humblebundle.com"
+        }
+    ]
+}

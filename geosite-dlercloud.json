@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dlercloud.com",
+                "dlercloud.org",
+                "dlercloud.me",
+                "dleris.best"
+            ],
+            "domain_suffix": [
+                ".dlercloud.com",
+                ".dlercloud.org",
+                ".dlercloud.me",
+                ".dleris.best"
+            ]
+        }
+    ]
+}

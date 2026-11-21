@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "truyen-hentai.com",
+                "truyen-hentai.fr",
+                "truyen-hentai.ru"
+            ],
+            "domain_suffix": [
+                ".truyen-hentai.com",
+                ".truyen-hentai.fr",
+                ".truyen-hentai.ru"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ckd.im",
+                "kd100.com",
+                "kuaidi100.com",
+                "kuaidilab.com"
+            ],
+            "domain_suffix": [
+                ".ckd.im",
+                ".kd100.com",
+                ".kuaidi100.com",
+                ".kuaidilab.com"
+            ]
+        }
+    ]
+}

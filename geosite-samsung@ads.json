@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "samsungadhub.com",
+                "samsungads.com"
+            ],
+            "domain_suffix": [
+                ".samsungadhub.com",
+                ".samsungads.com"
+            ]
+        }
+    ]
+}

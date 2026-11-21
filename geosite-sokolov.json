@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "sokolov.io",
+                "sokolov.ru"
+            ],
+            "domain_suffix": [
+                ".sokolov.io",
+                ".sokolov.ru"
+            ]
+        }
+    ]
+}
