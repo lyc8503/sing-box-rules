@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "doi.org",
+                "doi.info"
+            ],
+            "domain_suffix": [
+                ".doi.org",
+                ".doi.info"
+            ]
+        }
+    ]
+}

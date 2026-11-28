@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "aptoide.com",
+            "domain_suffix": ".aptoide.com"
+        }
+    ]
+}

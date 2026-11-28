@@ -1,0 +1,18 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "pirates-forum.org",
+                "torrindex.net",
+                "thepiratebay.org",
+                "apibay.org"
+            ],
+            "domain_suffix": [
+                ".pirates-forum.org",
+                ".torrindex.net",
+                ".thepiratebay.org",
+                ".apibay.org"
+            ]
+        }
+    ]
+}

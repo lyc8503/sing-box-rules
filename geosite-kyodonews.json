@@ -1,0 +1,28 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "47gyosei.jp",
+                "47news.jp",
+                "kyodo-d.info",
+                "kyodo-d.jp",
+                "kyodoimages.jp",
+                "kyodonews.jp",
+                "kyodonews.net",
+                "newsmart.jp",
+                "nna.jp"
+            ],
+            "domain_suffix": [
+                ".47gyosei.jp",
+                ".47news.jp",
+                ".kyodo-d.info",
+                ".kyodo-d.jp",
+                ".kyodoimages.jp",
+                ".kyodonews.jp",
+                ".kyodonews.net",
+                ".newsmart.jp",
+                ".nna.jp"
+            ]
+        }
+    ]
+}

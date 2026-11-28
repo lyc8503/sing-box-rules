@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "cnbc.com",
+                "cnbccouncils.com",
+                "cnbcfm.com"
+            ],
+            "domain_suffix": [
+                ".cnbc.com",
+                ".cnbccouncils.com",
+                ".cnbcfm.com"
+            ]
+        }
+    ]
+}

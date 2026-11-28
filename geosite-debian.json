@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "debian.org",
+                "dotdeb.org",
+                "debian.map.fastlydns.net"
+            ],
+            "domain_suffix": [
+                ".debian.org",
+                ".dotdeb.org",
+                ".debian.map.fastlydns.net"
+            ]
+        }
+    ]
+}

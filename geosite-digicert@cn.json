@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dcocsp.cn",
+                "digicert.cn"
+            ],
+            "domain_suffix": [
+                ".dcocsp.cn",
+                ".digicert.cn"
+            ]
+        }
+    ]
+}

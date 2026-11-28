@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "dmmrex.com",
+                "fanza.jp",
+                "dmm.co.jp"
+            ],
+            "domain_suffix": [
+                ".dmmrex.com",
+                ".fanza.jp",
+                ".dmm.co.jp"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "gryphline.cn",
+                "gryphline.com",
+                "gryphline.com.cn",
+                "gryphline.net",
+                "hg-cdn.com",
+                "skport.com"
+            ],
+            "domain_suffix": [
+                ".gryphline.cn",
+                ".gryphline.com",
+                ".gryphline.com.cn",
+                ".gryphline.net",
+                ".hg-cdn.com",
+                ".skport.com"
+            ]
+        }
+    ]
+}

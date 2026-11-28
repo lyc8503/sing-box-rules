@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "thetvdb.com",
+            "domain_suffix": ".thetvdb.com"
+        }
+    ]
+}

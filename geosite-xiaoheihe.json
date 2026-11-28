@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "1xhh.cn",
+                "accxiaoheihe.com",
+                "chat.top",
+                "debugmode.cn",
+                "max-c.com",
+                "maxadmin.cn",
+                "maxjia.com",
+                "xiaoheihe.cn"
+            ],
+            "domain_suffix": [
+                ".1xhh.cn",
+                ".accxiaoheihe.com",
+                ".chat.top",
+                ".debugmode.cn",
+                ".max-c.com",
+                ".maxadmin.cn",
+                ".maxjia.com",
+                ".xiaoheihe.cn"
+            ]
+        }
+    ]
+}

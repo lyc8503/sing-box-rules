@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "isafepal.com",
+                "safepal.com"
+            ],
+            "domain_suffix": [
+                ".isafepal.com",
+                ".safepal.com"
+            ]
+        }
+    ]
+}

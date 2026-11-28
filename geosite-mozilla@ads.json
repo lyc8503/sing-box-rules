@@ -1,0 +1,10 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "ads-img.mozilla.org",
+                "ads.mozilla.org"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "target.com",
+                "targetimg1.com"
+            ],
+            "domain_suffix": [
+                ".target",
+                ".target.com",
+                ".targetimg1.com"
+            ]
+        }
+    ]
+}

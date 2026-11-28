@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mubi.com",
+                "mubicdn.net"
+            ],
+            "domain_suffix": [
+                ".mubi.com",
+                ".mubicdn.net"
+            ]
+        }
+    ]
+}

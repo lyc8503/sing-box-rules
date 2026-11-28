@@ -1,0 +1,16 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "teambition.com",
+                "teambition.net",
+                "teambitionapis.com"
+            ],
+            "domain_suffix": [
+                ".teambition.com",
+                ".teambition.net",
+                ".teambitionapis.com"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "qingting.fm",
+                "qtfm.cn"
+            ],
+            "domain_suffix": [
+                ".qingting.fm",
+                ".qtfm.cn"
+            ]
+        }
+    ]
+}

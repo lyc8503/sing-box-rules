@@ -1,0 +1,29 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "entrust.cn",
+                "entrust.com",
+                "entrust.net",
+                "entrustdatacard.com",
+                "affirmtrust.com",
+                "atos.net",
+                "myatos.net",
+                "certificat2.com",
+                "trendmicro.com",
+                "www.entrust.cn"
+            ],
+            "domain_suffix": [
+                ".entrust.cn",
+                ".entrust.com",
+                ".entrust.net",
+                ".entrustdatacard.com",
+                ".affirmtrust.com",
+                ".atos.net",
+                ".myatos.net",
+                ".certificat2.com",
+                ".trendmicro.com"
+            ]
+        }
+    ]
+}

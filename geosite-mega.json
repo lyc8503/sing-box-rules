@@ -1,0 +1,24 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mega.io",
+                "mega.nz",
+                "megaad.nz",
+                "megapay.nz",
+                "megas4.com",
+                "transfer.it",
+                "mega.co.nz"
+            ],
+            "domain_suffix": [
+                ".mega.io",
+                ".mega.nz",
+                ".megaad.nz",
+                ".megapay.nz",
+                ".megas4.com",
+                ".transfer.it",
+                ".mega.co.nz"
+            ]
+        }
+    ]
+}

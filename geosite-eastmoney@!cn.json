@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "domain": "emsec.hk",
+            "domain_suffix": ".emsec.hk"
+        }
+    ]
+}

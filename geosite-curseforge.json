@@ -1,0 +1,14 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "curseforge.com",
+                "forgecdn.net"
+            ],
+            "domain_suffix": [
+                ".curseforge.com",
+                ".forgecdn.net"
+            ]
+        }
+    ]
+}

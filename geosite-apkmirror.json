@@ -1,0 +1,11 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "apkmirror.disqus.com",
+                "apkmirror.com"
+            ],
+            "domain_suffix": ".apkmirror.com"
+        }
+    ]
+}

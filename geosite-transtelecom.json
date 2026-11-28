@@ -1,0 +1,26 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "baikal-ttk.ru",
+                "kttk.ru",
+                "myttk.ru",
+                "sakhttk.ru",
+                "ttc-net.ru",
+                "ttk.ru",
+                "ttkdv.ru",
+                "zsttk.net"
+            ],
+            "domain_suffix": [
+                ".baikal-ttk.ru",
+                ".kttk.ru",
+                ".myttk.ru",
+                ".sakhttk.ru",
+                ".ttc-net.ru",
+                ".ttk.ru",
+                ".ttkdv.ru",
+                ".zsttk.net"
+            ]
+        }
+    ]
+}
